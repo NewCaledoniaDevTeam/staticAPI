@@ -1,0 +1,67 @@
+{
+    "0": {
+        "name": "Article Example",
+        "description": "Article Description Example",
+        "amendments": 0
+    },
+    "1": {
+        "name": "Article 1",
+        "description": "New Caledonia is a pretty freaking cool place.",
+        "amendments": 0
+    },
+    "2": {
+        "name": "Article 2",
+        "description": "Everybodys got rights.",
+        "amendments": 0
+    },
+    "3": {
+        "name": "Article 3",
+        "description": "Don’t kill people, that's not nice. Don’t rob people, that's not nice. Don’t trespass, that's not nice.",
+        "amendments": 0
+    },
+    "4": {
+        "name": "Article 4",
+        "description": "Mines are public property.",
+        "amendments": 0
+    },
+    "5": {
+        "name": "Article 5",
+        "description": "The Music Bot has to be at 5% volume or less at all times",
+        "amendments": 1
+    },
+    "5.1": {
+        "name": "Article 5 - Amendment 1",
+        "description": "Those who kill eardrums without consent receive a minimum of 2 days in prison.",
+        "amendments": 0
+    },
+    "6": {
+        "name": "Article 6",
+        "description": "Yelling, constantly talking too much, or repeating the same thing over and over again is not permitted if so you will be banned from the chat.",
+        "amendments": 0
+    },
+    "7": {
+        "name": "Article 7",
+        "description": "The Enforcers and The Enforcer Captain must follow the [Enforcer Code of Conduct.](https://docs.google.com/document/d/1ntRTmBb5t_9-FpVyBRJvn4sJ3rOcMUbseCPgQG1vi6E/edit)",
+        "amendments": 0
+    },
+    "8": {
+        "name": "Article 8",
+        "description": "No cruel and unusual punishment will be enacted. If exile is necessary, it will be for a maximum of 7 Minecraft days. Any additional sentences will be gradually added as seen fit by the government. Under no circumstances will the accused be kicked from the game. That's not cool.",
+        "amendments": 1
+    },
+    "8.1": {
+        "name": "Article 8 - Amendment 1",
+        "description": "A long term and/or indefinite ban can be enacted if the entire innocent Council deems it necessary.",
+        "amendments": 0
+    },
+    "9": {
+        "name": "Article 9",
+        "description": "Gambling is legalized, and will follow Vegas rules (i.e. You cheat, you die).",
+        "amendments": 0
+    },
+    "10": {
+        "name": "Article 10",
+        "description": "Villagers of New Llanfairpwllgwyngyllgogerychwyrndrobwllllantysiliogogogoch hold the same status as any autonomous citizen of New Caledonia.",
+        "amendments": 0
+    }
+}
