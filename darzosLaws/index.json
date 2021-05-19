@@ -62,7 +62,7 @@
     "12": {
         "name": "Article XII",
         "description": "Even when the Governor does not sit on the SFC, he can create executive orders that last one week each, unless the SFC decides to sign it into law. Any executive order may be signed only once for every four-month national election cycle.",
-        "amendments": 2
+        "amendments": 3
     },
     "12.1": {
         "name": "Article XII Amendment A",
@@ -72,6 +72,11 @@
     "12.2": {
         "name": "Article XII Amendment B",
         "description": "Executive orders do not have the ability to override pre-existing articles.",
+        "amendments": 0
+    },
+    "12.3": {
+        "name": "Article XII Amendment C",
+        "description": "anyone can run for governor, but the remaining SFC who is not running will vote on who takes the position",
         "amendments": 0
     },
     "13": {
