@@ -27,6 +27,11 @@
     "5": {
         "name": "Article V",
         "description": "The job of the Shrewsbuquerquese Governor is to enforce the lack of heresies, and to point out heretics. The citizens are to enforce the honor of the Darzos clan by driving out heresies, including everything from celebrating Christmas early to microwaving ramen.",
+        "amendments": 1
+    },
+    "5.1": {
+        "name": "Article V Amendment A",
+        "description": "The governor of Shrewsbuquerque will now be officially known as the  Lord High Governor of All That Is Capitalist and Darzodian.",
         "amendments": 0
     },
     "6": {
