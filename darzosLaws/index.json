@@ -141,7 +141,12 @@
     },
     "23": {
         "name": "Article XXIII",
-        "description": " Insults against and about being a heretic are legal, but will only apply to those labeled as heretics within the province, or those outside of the providence who are willing to be labeled as such.",
+        "description": "Insults against and about being a heretic are legal, but will only apply to those labeled as heretics within the province, or those outside of the providence who are willing to be labeled as such.",
+        "amendments": 0
+    },
+    "24": {
+        "name": "Article XXIV",
+        "description": "The original heretic, Alan Saucer, shall now officially be known as the SFC Heresy Attache, given permission to participate in the discussion of new laws, but with absolutely no provincial power to enforce opinions he may have",
         "amendments": 0
     }
 }
