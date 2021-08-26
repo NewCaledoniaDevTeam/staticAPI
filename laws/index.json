@@ -10,58 +10,48 @@
         "amendments": 0
     },
     "2": {
-        "name": "Article 2",
-        "description": "Everybodys got rights.",
+        "name": "Article 2 (District Act)",
+        "description": "Certain federal buildings will be taken from borough jurisdiction and moved to the District of Danketsu, an organized district that is under the jurisdiction of the Council at large. This District will be represented by the Council, and any and all buildings added to it must be voted on, and approved by a full Council vote. Additional area for the District's jurisdiction includes 3 blocks in any direction. Moreover, the list of buildings included in the District of Danketsu must be kept and regularly maintained in the Voting Alignment and Legal Information Document (VALID).",
         "amendments": 0
     },
     "3": {
-        "name": "Article 3",
-        "description": "Don’t kill people, that's not nice. Don’t rob people, that's not nice. Don’t trespass, that's not nice.",
+        "name": "Article 3 (Provincial Act)",
+        "description": "In order to become a Province, a territory must do the following:\n-Verify 4 full citizens as citizens of the Province\n-Elects a Provincial ruler and states a form of government, at least one of the rulers must be outside of the council\n-Appoint a Provincial Senator, an entirely different person then the provincial ruler, and must not be a councilman\n-Citizens may have dual provincialship\n-The provincial Constitution must be approved by the full Council. Laws within it may contradict national laws with the permission of full council\n-Provide geographical borders, inside of which their Constitution may be enforced. Exclusively within these borders may the provincial Constitution be enforced. They can be extended by at least 40% with majority councilmen permission once per council cycle. If the expansion includes a recognized town or city, full council is required.\n-Establish a hub of sorts. This will be a place where the provincial government will be based. \n-Must have a logo compatible with the world.\n-Must have at least one Enforcer station.\nFurthermore:\n-The Governor gets Operator rights while in the world. \n-Accepted Provinces get an initial 32 Galactic Credits (creatively obtained)\n-Every citizen gets Creative rights for 1 month after the Province is approved.\n-Aside from NCTA highways, the ability to build roads falls under provincial jurisdiction. The NCTA can be recruited for the purpose of building national highways.\n-New laws must be passed by at least 2 Councilmen, unless contradicting national law which needs full council, and must be visible to the rest of the Council.\n-The Province must determine their citizen process and law formation.\n-Either an Enforcer Branch (Recommended) or an Private Enforcement Agency. Enforcer Branches will be nationally recognized with the benefits of an enforcer, while Private Agencies will be restricted to the province with a required Code of Conduct.\n-National crimes committed within provincial jurisdiction can be tried by a provincial court with full council permission, the ruling being handed to the council.",
         "amendments": 0
     },
     "4": {
-        "name": "Article 4",
-        "description": "Mines are public property.",
+        "name": "Article 4 (New Llanfair Act)",
+        "description": "Villagers of New Llanfairpwllgwyngyllgogerychwyrndrobwllllantysiliogogogoch hold the same status as any autonomous citizen of New Caledonia.",
         "amendments": 0
     },
     "5": {
-        "name": "Article 5",
-        "description": "The Music Bot has to be at 5% volume or less at all times",
-        "amendments": 1
-    },
-    "5.1": {
-        "name": "Article 5 - Amendment 1",
-        "description": "Those who kill eardrums without consent receive a minimum of 2 days in prison.",
+        "name": "Article 5 (Hierarchical Act):",
+        "description": "Dealing with the hierarchy of locations and their definitions:\n-Nation:Everything within the land. Collectively known as the New Caledonia, the Nation of The Future\n-District: Buildings federally recognized by the VALID to be outside of the jurisdiction of the cities. Only known district is the District of Danketsu\n-Capitol: One city. As of November 28, 2020, this is the City of Crestview. It is to be divided into boroughs, each of which get one Council seat. The Capitol may be changed at any time, but must receive a unanimous national vote.\n-City: An incorporated town. In order to be incorporated, it must receive a fully positive Council vote. It would receive an official road and rail system, along with an Enforcer station. Currently includes Crestview, Twin Peaks, and New Vegas\n-Province: A mostly autonomous region with its own laws including national laws.\n-Town: Term is interchangeable with \"village\". It is defined as a village or unincorporated cluster of buildings. ",
         "amendments": 0
     },
     "6": {
-        "name": "Article 6",
-        "description": "Yelling, constantly talking too much, or repeating the same thing over and over again is not permitted if so you will be banned from the chat.",
+        "name": "Article 6 (Burough Switching Act)",
+        "description": "The act of borough-switching is prohibited, unless approved by a full Council vote.",
         "amendments": 0
     },
     "7": {
-        "name": "Article 7",
-        "description": "The Enforcers and The Enforcer Captain must follow the [Enforcer Code of Conduct.](https://docs.google.com/document/d/1ntRTmBb5t_9-FpVyBRJvn4sJ3rOcMUbseCPgQG1vi6E/edit)",
+        "name": "Article 7 (Election Act)",
+        "description": "All Council elections are to be held publicly. All senator seats representing burroughs are to be held privately. If there comes a tie in a Council election, a second election will be held between the tied candidates, assuming they are tied for the most accumulated votes and there are other votes down. If this election also results in a tie or is voided, an Electoral College will be created for another election. If at that point the election is still tied, a purely random selector will be employed to select the Councilman. After the successful election of all the council members, they will elect a Speaker of the Council, which will choose a Deputy Speaker between the other two. Senators will also own a speaker equivalent known as the Chancellor, voted upon by the council.",
         "amendments": 0
     },
     "8": {
-        "name": "Article 8",
-        "description": "No cruel and unusual punishment will be enacted. If exile is necessary, it will be for a maximum of 7 Minecraft days. Any additional sentences will be gradually added as seen fit by the government. Under no circumstances will the accused be kicked from the game. That's not cool.",
-        "amendments": 1
-    },
-    "8.1": {
-        "name": "Article 8 - Amendment 1",
-        "description": "A long term and/or indefinite ban can be enacted if the entire innocent Council deems it necessary.",
+        "name": "Article 8 (Confidentiality Act)",
+        "description": "Results of any Council vote including the ratification/denial of a petition or bill are to remain confidential unless released with the permission of the entire Council.",
         "amendments": 0
     },
     "9": {
-        "name": "Article 9",
-        "description": "Gambling is legalized, and will follow Vegas rules (i.e. You cheat, you die).",
+        "name": "Article 9 (Citizenship Act)",
+        "description": "Approved citizen applicants may join the discord server. If they do not join within 7 days, the invite becomes voided. After reaching a minimum of 25 messages on one of the New Caledonian Discord Server or 1 hour on the New Caledonian Minecraft Server. The applicant will answer within the citizen-application chat, the following inquiries: name, age, time zone (in form of GMT), who sent the invite and how, how the invitee knows the inviter, whether or not the applicant has read the laws, consent to taxes, potential plans on the server, Minecraft Bedrock username, and experience of Minecraft (in years). If the Council sees fit, they may ask other questions. Applicants will be allowed on the minecraft server with either a councilman or enforcer supervising. Following the completion of the given questionnaire by the citizen applicant, The council will decide to accept or deny the applicant, full council needed.If approved, the applicant shall be granted Conditional Citizenship. To gain citizenship, they are required to take the law test and pass. They have one open-book attempt. If a citizen maintains their conditional status for a minimum of 14 days. If at any step of this process, the applicant loses permission to join New Caledonia, they may reapply within a minimum of 14 days. Standing citizens may have their citizenship revoked on the basis of 21 days of relative inactivity. For this to happen, however, all Councilmen must vote them out. If voted out, they will receive 7 days' notice before being kicked. If activity is promised, the kicked person may reapply for citizenship in 14 days, but the process will be waived. During the 7 day notification period, the affected person is to write a will to account for any belongings.",
         "amendments": 0
     },
     "10": {
-        "name": "Article 10",
-        "description": "Villagers of New Llanfairpwllgwyngyllgogerychwyrndrobwllllantysiliogogogoch hold the same status as any autonomous citizen of New Caledonia.",
+        "name": "Article 10 (Server Operator Act)",
+        "description": "The Server Operator of both the Minecraft server and Discord server must follow a Code of Conduct. The Discord Server Operator must be a councilman.",
         "amendments": 0
     }
 }
