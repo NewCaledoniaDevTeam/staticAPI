@@ -53,5 +53,65 @@
         "name": "Article 10 (Server Operator Act)",
         "description": "The Server Operator of both the Minecraft server and Discord server must follow a Code of Conduct. The Discord Server Operator must be a councilman.",
         "amendments": 0
+    },
+    "11": {
+        "name": "Article 11 (Parent Act)",
+        "description": "No parental legislature is allowed without Council approval. They cannot ban children who they have no relation to or attempt to destroy New Caledonia.",
+        "amendments": 0
+    },
+    "12": {
+        "name": "Article 12 (Currency Act)",
+        "description": "The Galactic Credit will be the nationally recognized form of currency. New citizens will be given 128 upon approval.",
+        "amendments": 0
+    },
+    "13": {
+        "name": "Article 13 (Enforcement Act)",
+        "description": "The Ministry of Enforcement and Investigation (MEI) consists of the National Investigation Agency (NIA), Enforcers, and any enforcer branch within provinces. All Enforcers, whether national or provincial, will be required to participate and guard nationally recognized debates. The forces within the MEI will have nationally funded equipment. The Minister will be elected from the heads and cannot be a councilman, though the deputy can. Enforcer branches are required to have at least basic training while National Enforcers are required advanced training. Enforcer branches are required to have a recognized leader to relay information, and all groups are allowed a logo. The NIA, Enforcers, and each enforcer branch are required to have a Code of Conduct. Councilmen can make arrests in cases where the accused is on and no enforcer is on. Arrests cannot predate the law nor can people use double jeopardy. Citizens are allowed to defend their land or self within reasonable means and leave other people’s property unaffected.",
+        "amendments": 0
+    },
+    "14": {
+        "name": "Article 14 (Command Chain Act)",
+        "description": "The enforcement system will follow a set chain of command. A single councilman or half the senate may start a case, given 1 week to gather some evidence. If evidence is gathered, the investigation can get extended for 3 weeks. The minister can assign cases to a force within the MEI, and may start cases if it happens to involve a council member or senator. The chosen forces head will assign warrants which expire after 2 weeks, but can be expanded to 4 weeks with evidence. The minister will act as the head of the enforcer branches collectively if they are assigned to the case. If the maximum amount of 4 weeks is reached without sufficient evidence, the case will be closed unless a majority of either the council or senate reopen or extend the case.",
+        "amendments": 0
+    },
+    "15": {
+        "name": "Article 15 (Threat Level Act)",
+        "description": "Ongoing terror or criminal threats will be denoted by severity on a Force Protection Condition list as follows:\nAlpha: No threat is determined, typical position.\nBravo: Terror or criminal threat may affect a municipal area at large.\nCharlie: Terror or criminal threat may affect a population and/or commerce center.\nDelta: Terror or criminal threat may affect the Capitol or other federal buildings.\nEcho: Terror or criminal threat is actively affecting any of the previously denoted levels.\nAll unsuspected Councilmen must agree to change a FPCON setting.",
+        "amendments": 0
+    },
+    "16": {
+        "name": "Article 16 (Timezone Act)",
+        "description": "The official time zone of New Caledonia is hereby shared between Central Daylight Time (US) and Central Standard Time (US)",
+        "amendments": 0
+    },
+    "17": {
+        "name": "Article 17 (Link Act)",
+        "description": "The Discord server link can only be sent to others within the server and new citizens with the permission of at least one councilman. This councilman is responsible to notify the other councilmen. Citizens may only have one account on all platforms unless approved by the full council.",
+        "amendments": 0
+    },
+    "18": {
+        "name": "Article 18 (Common Sense Act)",
+        "description": "The following is illegal: tempering with other people’s chats, lobbying, perjury, government censorship without due cause, voter fraud, election tampering, commanding Enforcers not as a Councilman, tax evasion, unapproved government reimbursement, and dishonoring of a ban and/or jail time. Furthermore, any court evasion will be an assumed loss, repeat offenders shall have a graduated punishment culminating in an indefinite ban, and the Court's ruling is final, and holds judicial review. The \"annoyance crimes\", which include spamming, bullying, and harassment, do not require a trial. Offensive roles count as harassment.",
+        "amendments": 0
+    },
+    "19": {
+        "name": "Article 19 (Pardon Act)",
+        "description": "pardon of any crime may be given by way of a unanimous vote of the Council. Any record of the crime pardoned shall be wiped clean.",
+        "amendments": 0
+    },
+    "20": {
+        "name": "Article 20 (Reparation Act)",
+        "description": "If a crime is acquitted or the court is canceled, the National Council has the responsibility to pay a reparation of 32 credits. This does not include cases that have finished, whether found innocent or guilty.",
+        "amendments": 0
+    },
+    "21": {
+        "name": "Article 21 (Treason Act)",
+        "description": "Treason, as one of the understood laws, needs an official definition. \"Treason\" is hereby defined as any act taken against the government or an official.",
+        "amendments": 0
+    },
+    "22": {
+        "name": "Article 22 (Word Choice Act)",
+        "description": "The Music Bot must be at most 5% volume unless all those on the voice channel consent to it being raised, a minimum of 2 days in prison for those who break this law. Yelling and repeating things can get you banned from the chat. Angered and ranting citizens can be removed for a maximum of 15 minutes for a chance to cool down.",
+        "amendments": 0
     }
 }
