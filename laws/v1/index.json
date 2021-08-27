@@ -2,12 +2,181 @@
     "0": {
         "name": "Article Example",
         "description": "Article Description Example",
-        "date": "Passed MILTIME CDT Month Day Year"
+        "date": "Passed MILTIME CDT Month Day Year",
         "amendments": 0
     },
     "1": {
         "name": "Article 1",
         "description": "New Caledonia is a pretty freaking cool place.",
+        "date": "Passed 2203 CDT May 23 2020",
+        "amendments": 0
+    },
+    "2": {
+        "name": "Article 2",
+        "description": "Everybodys got rights.",
+        "date": "Passed 2203 CDT May 23 2020",
+        "amendments": 0
+    },
+    "3": {
+        "name": "Article 3",
+        "description": "Don’t kill people, that's not nice. Don’t rob people, that's not nice. Don’t trespass, that's not nice.",
+        "date": "Passed 2203 CDT May 23 2020",
+        "amendments": 0
+    },
+    "4": {
+        "name": "Article 4",
+        "description": "Mines are public property",
+        "date": "Passed 2211 CDT May 23 2020",
+        "amendments": 0
+    },
+    "5": {
+        "name": "Article 5",
+        "description": "The Music Bot has to be at 5% volume or less at all times",
+        "date": "Passed 2136 CDT May 26 2020",
+        "amendments": 1
+    },
+    "5.1": {
+        "name": "Article 5 - Amendment 1",
+        "description": "Those who kill eardrums without consent receive a minimum of 2 days in prison.",
+        "date": "Passed 2141 CDT May 26 2020",
+        "amendments": 0
+    },
+    "6": {
+        "name": "Article 6",
+        "description": "Yelling, constantly talking too much, or repeating the same thing over and over again is not permitted if so you will be banned from the chat.",
+        "date": "Passed 2136 CDT May 30 2020",
+        "amendments": 0
+    },
+    "7": {
+        "name": "Article 7",
+        "description": "The Enforcers and The Enforcer Captain must follow the [Enforcer Code of Conduct](https://docs.google.com/document/d/1ntRTmBb5t_9-FpVyBRJvn4sJ3rOcMUbseCPgQG1vi6E/edit?usp=sharing).",
+        "date": "Passed 2243 CDT June 1 2020",
+        "amendments": 0
+    },
+    "8": {
+        "name": "Article 8",
+        "description": "No cruel and unusual punishment will be enacted. If exile is necessary, it will be for a maximum of 7 Minecraft days. Any additional sentences will be gradually added as seen fit by the government. Under no circumstances will the accused be kicked from the game. That's not cool.",
+        "date": "Passed 0953 CDT June 2 2020",
+        "amendments": 1
+    },
+    "8.1": {
+        "name": "Article 8 - Amendment 1",
+        "description": "A long term and/or indefinite ban can be enacted if the entire innocent Council deems it necessary.",
+        "date": "Passed 2004 CDT August 8 2020",
+        "amendments": 0
+    },
+    "9": {
+        "name": "Article 9",
+        "description": "Gambling is legalized, and will follow Vegas rules (i.e. You cheat, you die).",
+        "date": "Passed 0953 CDT June 2 2020",
+        "amendments": 0
+    },
+    "10": {
+        "name": "Article 10",
+        "description": "Villagers of New Llanfairpwllgwyngyllgogerychwyrndrobwllllantysiliogogogoch hold the same status as any autonomous citizen of New Caledonia.",
+        "date": "Passed 2155 CDT June 5 2020",
+        "amendments": 0
+    },
+    "11": {
+        "name": "Article 11",
+        "description": "Arrests may not be predated. Therefore, all crimes committed before the date of the law's signing are legal.",
+        "date": "Passed 2155 CDT June 5 2020",
+        "amendments": 0
+    },
+    "12": {
+        "name": "Article 12",
+        "description": "NO SWEARING ON MY CHRISTIAN MINECRAFT SERVER",
+        "date": "Passed 2229 CDT June 13 2020",
+        "amendments": 0
+    },
+    "13": {
+        "name": "Article 13",
+        "description": "for those who didn't know who the Clan Elders works, it like this:\nAlex - President - Sign laws\nAlan - Vice President (Congress) - Comes up with new laws and projects\nConnor - Judge - Enforces laws through the Enforcers and resolves any other law problems (court trials)",
+        "date": "Passed 1220 CDT June 16 2020",
+        "amendments": 0
+    },
+    "14": {
+        "name": "Article 14",
+        "description": "Prepared foods cannot be sold by businesses that have not determined themselves as some sort of eatery.",
+        "date": "Passed 0020 CDT June 16 2020",
+        "amendments": 1
+    },
+    "14.1": {
+        "name": "Article 14 - Amendment 1 (physical location act)",
+        "description": "No New Caledonia (nation) business may not sell products without a physical location. The location must be a professional, non-temporary building in 10X10 space. Any business in defying this law will have to close down until found in compliance with this law.",
+        "date": "Passed 2304 CDT September 11 2020",
+        "amendments": 0
+    },
+    "15": {
+        "name": "Article 15 - REPEALED (15:1)",
+        "description": "Formula for property tax: Perimeter + Number of Floors ÷ 6 then round it up",
+        "date": "Passed 1217 CDT June 17 2020",
+        "amendments": 0
+    },
+    "16": {
+        "name": "Article 16",
+        "description": "On the New Caledonia server, it is prohibited to be on the server before 7:50 PM or after 10 PM. This applies to all except the President and those given express Council/President permission. Those caught disobeying this law will be punished for robbery.",
+        "date": "Passed 1300 CDT June 17 2020",
+        "amendments": 0
+    },
+    "17": {
+        "name": "Article 17",
+        "description": "The sole ruling power in New Caledonia will be the Council of Elders. It is a triumvirate. Each position is elected by the family and those others adopted. The seat is voted for every 4 months. However at any time during the term, any member of the family may challenge that family's representative to an arena fight. This Council will have the power to suggest, vote on, and enforce laws through government Enforcers. They will also have the power, as a jury, to acquit or convict any accused persons given probable cause for arrest and accusation. Citizens cannot be both Enforcer and Councilman. They must give up an Enforcer role to take a Council seat. The Council will subsequently find a replacement Enforcer. This will go into effect following the current governmental investigation. If a similar investigation were to take place, anyone involved will be removed from the Council temporarily. In their absence, they will appoint a temporary replacement.",
+        "date": "Passed 2242 CDT June 21 2020",
+        "amendments": 4
+    },
+    "17.1": {
+        "name": "Article 17 - Amendment 1",
+        "description": "Instead of families, each Councilman will represent a borough. Each of the three boroughs in the City of New Caledonia will get representation in the National Council. Also, SMAC challenges will be replaced by approval polls, which will be opened for four days. If the questioned has his rating fall below 50%, an election will take place, in which the deadline for registering and the election itself are exactly 14 days after the poll closes. Official alignment will be set by the sitting Council as of the passage of this amendment.\n\nTwin Peaks (On the hill): Alan, Nate, Aidan\nNew Caledonia (East of Hwy 17): Alex, Eddie, Ethan\nNew Vegas (West of Hwy 17): Connor, Daniel, Joey",
+        "date": "Passed 2055 CDT October 8 2020",
+        "amendments": 0
+    },
+    "17.2": {
+        "name": "Article 17 - Amendment 2",
+        "description": "On Approval Polls. Approval polls of a Councilman may be proposed by someone within the same borough. They may only be proposed at a certain rate: 2 weeks after the term starts, and there must be 1 month between each attempt. A less than 50% rate can cause another election in the borough. The sitting Councilman, even if not approved of, may run in this new election. The approval poll will be open for 72 hours, or until all citizens have voted. The poll will be run by the Speaker, who is the Councilman with the most Council experience. In the event that the Speaker is the one included on the poll, an unrelated Councilman will run the poll with him.",
+        "date": "Passed 2120 CDT October 21 2020",
+        "amendments": 0
+    },
+    "17.3": {
+        "name": "Article 17 - Amendment 3",
+        "description": "As of March 24, 2021 (CDT), the names of the three boroughs are: Crestview (represented by Alex Snyder), New Vegas (rep. Connor McClintic), and Twin Peaks (rep. Alan Saucer).",
+        "date": "Passed 2145 CDT March 23 2021",
+        "amendments": 0
+    },
+    "17.4": {
+        "name": "Article 17 - Amendment 4",
+        "description": "Impeachment proceedings, when requested, must be promptly started. When they are started, the approval poll must be open for one week, and if an emergency election is required, that too must be open for one week immediately after the poll's closing.",
+        "date": "Passed 1835 CDT May 26 2021",
+        "amendments": 0
+    },
+    "18": {
+        "name": "Article 18 - REPLACED (18:1)",
+        "description": "IF THE ACTIVITY ON THIS MINECRAFT SERVER CONTINUES TO SPARK ARGUMENTS, FIGHTING, AND NEGATIVE BEHAVIOR IN OUR HOME I WILL ME FORCE TERMINATED THE SERVER BY PARENTS. EVERYONE NEEDS TO PLAY NICE OR NOT PLAY - ALAN, EDDIE, JOEY'S PARENTS",
+        "date": "Passed 2205 CDT June 26 2020",
+        "amendments": 1
+    },
+    "18.1": {
+        "name": "Article 18 - Amendment 1",
+        "description": "The previous wording of this article is now void, and is hailed as an announcement. The repeated offense of bullying and harassment is now illegal. These are defined as repeated attempts to insult one person. This is punishable by a temporary ban and will be determined by a court.",
+        "date": "Passed 1242 CDT July 13 2020",
+        "amendments": 0
+    },
+    "19": {
+        "name": "Article 19",
+        "description": "Treason, as one of the understood laws, needs an official definition. \"Treason\" is hereby defined as any act taken against the government or an official.",
+        "date": "Passed 1209 CDT July 13 2020",
+        "amendments": 0
+    },
+    "20": {
+        "name": "Article 20 (Parental Act)",
+        "description": "No parental legislature is allowed from here out without Council approval.",
+        "date": "Passed 2110 CDT July 13 2020",
+        "amendments": 1
+    },
+    "20.1": {
+        "name": "Article 20 - Amendment 1",
+        "description": "Any and all parental action, including but not limited to, banning citizens and destroying New Caledonia, is hereby prohibited. Any legal action must be presented by a Councilman.",
+        "date": "Passed 904 AM CDT July 28 2020",
         "amendments": 0
     }
 }
