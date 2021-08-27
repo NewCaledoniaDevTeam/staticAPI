@@ -176,7 +176,145 @@
     "20.1": {
         "name": "Article 20 - Amendment 1",
         "description": "Any and all parental action, including but not limited to, banning citizens and destroying New Caledonia, is hereby prohibited. Any legal action must be presented by a Councilman.",
-        "date": "Passed 904 AM CDT July 28 2020",
+        "date": "Passed 0904 AM CDT July 28 2020",
+        "amendments": 0
+    },
+    "21": {
+        "name": "Article 21",
+        "description": "If a citizen gets worked up, and begins to use petty arguments and angrily yells over the voice chat, they will be removed for 15 minutes. Failure to observe this law will result in a trial, and is punishable by up to five days in prison.",
+        "date": "Passed 2110 AM CDT July 13 2020",
+        "amendments": 0
+    },
+    "22": {
+        "name": "Article 22 (Command Block Act)",
+        "description": "No command blocks that are no approved by the council. EXAMPLES: Gamemode changers, Hard items summons, a timer that teleports you home in 5 mins",
+        "date": "Passed 10:25 PM July 18 CDT 2020",
+        "amendments": 0
+    },
+    "23": {
+        "name": "Article 23",
+        "description": "Those who have been given Creative privileges are prohibited from sharing Creative sourced items with those who have not. This is punishable by a revoking of Creative privileges and may result in a loss of office.",
+        "date": "Passed 1016 PM CDT July 20 2020",
+        "amendments": 1
+    },
+    "23.1": {
+        "name": "Article 23 - Amendment 1",
+        "description": "In order to encourage use of the national economy, a cycle of legalized Creative usage will be implemented. On January 15th and July 15th, there will be periods of 3 months in which Creative privileges are revoked. Outside of these limited periods, Councilmen, National Enforcers, and Governors will be given Operator privileges, and any projects under NCCA and NCTA will be allowed with Creative privileges.",
+        "date": "Passed 0047 CDT April 12 2021",
+        "amendments": 0
+    },
+    "24": {
+        "name": "Article 24",
+        "description": "Pardon of any crime may be given by way of a unanimous vote of the Council. Any record of the crime pardoned shall be wiped clean.",
+        "date": "Passed 2053 CDT July 28 2020",
+        "amendments": 0
+    },
+    "25": {
+        "name": "Article 25",
+        "description": "Should any arrests be made and the accused is either acquitted or their trial canceled, the Council will pay reparation of 30 Emeralds to that person. The settlement of a case does not apply.",
+        "date": "Passed 1728 PM CDT July 30 2020",
+        "amendments": 0
+    },
+    "26": {
+        "name": "Article 26",
+        "description": "Any building commissioned by the NCCA is open to event hosts. However, in order to add a person or company name to the event or pay participants, it must be approved by a majority of Councilmen.",
+        "date": "Passed 1227 CDT August 8 2020",
+        "amendments": 0
+    },
+    "27": {
+        "name": "Article 27",
+        "description": "Voter fraud is punishable by either a 30 Emerald fine or 3 days in jail.",
+        "date": "Passed 1538 CDT August 10 2020",
+        "amendments": 1
+    },
+    "27.1": {
+        "name": "Article 27 - Amendment 1",
+        "description": "Voter fraud is punishable by a 10 Credit fine, due within a week unless probation is enforced. Each citizen has the right to non-disclosure regarding his vote, unless questioning is necessary for determining voter fraud.",
+        "date": "Passed 2114 CDT October 12 2020",
+        "amendments": 0
+    },
+    "28": {
+        "name": "Article 28",
+        "description": "Harassment in direct messages is still punishable under New Caledonia laws.",
+        "date": "Passed 1540 CDT August 10 2020",
+        "amendments": 0
+    },
+    "29": {
+        "name": "Article 29 (Common Sense Act)",
+        "description": "The following is illegal: TNT (except for mining), lobbying, perjury, government censorship without due cause, voter fraud, election tampering, commanding Enforcers not as a Councilman, tax evasion, unapproved government reimbursement, and dishonoring of a ban and/or jail time. Furthermore, any court evasion will be an assumed loss, repeat offenders shall have a graduated punishment culminating in an indefinite ban, and the Court's ruling is final, and holds judicial review. The "annoyance crimes", which include spamming, bullying, and harassment, do not require a trial.",
+        "date": "Passed 750 PM CDT, August 14 2020",
+        "amendments": 5
+    },
+    "29.1": {
+        "name": "Article 29 - Amendment 1",
+        "description": "A company and its owner are one and the same legally. When one sues a company, the owner is responsible for unpaid charges. If still unpaid, the ban will fall on the owner, as is normal. In other words, the owner is the company in a legal sense.",
+        "date": "Passed 1726 CDT October 6 2020",
+        "amendments": 0
+    },
+    "29.2": {
+        "name": "Article 29 - Amendment 2 (Privacy Act)",
+        "description": "The following is illegal: trespassing, or the act of entering someone's private property without permission, and flying over does not apply; and searching without a warrant issued by majority innocent Council. Furthermore, the right of the people to hold private calls and/or dealings shall not be infringed, unless said dealing is illegal by other laws.",
+        "date": "Passed 0004 CDT October 11 2020",
+        "amendments": 0
+    },
+    "29.3": {
+        "name": "Article 29 - Amendment 3",
+        "description": "Distribution (i.e. selling and sharing) of any illegal-to-use items is hereby prohibited, nor can they set the usage when selling. Distributors of otherwise legal items used illegally (i.e. certain potions) are released from liability in a court of law.",
+        "date": "Passed 1800 CDT November 7 2020",
+        "amendments": 0
+    },
+    "29.4": {
+        "name": "Article 29 - Amendment 4",
+        "description": "A citizen may not be tried twice for the same crime regardless of what evidence may have presented itself after the first trial. In essence, double jeopardy in the sense of justice is prohibited.",
+        "date": "Passed 0011 CST November 21 2020",
+        "amendments": 0
+    },
+    "29.5": {
+        "name": "Article 29 - Amendment 5",
+        "description": "The use and/or distribution of any Potions of Invisibility is hereby prohibited. Each use must be approved by a majority innocent Council, if applicable. Violators will be prosecuted.",
+        "date": "Passed 1813 CST December 2 2020",
+        "amendments": 0
+    },
+    "30": {
+        "name": "Article 30 (School Act)",
+        "description": "During the school year, with notable exceptions given by the Council, no person shall be on New Caledonia's Minecraft until school/homework is done, including any parameters set by the parent of the affected (including chores). School and lunch breaks are allowed. No one is allowed to enter the Minecraft server after one's given a curfew. Curfew given by New Caledonia will be in two groups: Elders: Alex, Connor, Diego, Nate, Alan, and anyone else who is decided by the council. Alpha: Eddie, Joey, Daniel, Ethan, Aiden, Sal, and anyone else who is decided by the council. Elder curfew is 23:00 their time zone. Alpha curfew is 22:30 their time zone. In order to enforce this properly, when a time zone changes, it must be reported. This article may be temporarily revoked for certain breaks (i.e. Winter, Spring, Fall break).",
+        "date": "Passed 1813 CST December 2 2020",
+        "amendments": 0
+    },
+    "31": {
+        "name": "Article 31 (Tax Act)",
+        "description": "Effective immediately, taxes are to be collected every other Saturday, unless otherwise notified. Tax evasion is a serious offense and will be dealt with as such.",
+        "date": "Passed 654 AM CDT August 26 2020",
+        "amendments": 1
+    },
+    "31.1": {
+        "name": "Article 31 - Amendment 1 (Citizenship Tax)",
+        "description": "Property taxes are hereby eliminated. Instead, a $5 Citizenship Tax will be collected each month on the 15th.",
+        "date": "Passed 1949 CDT September 6 2020",
+        "amendments": 1
+    },
+    "32": {
+        "name": "Article 32",
+        "description": "Raids can be started legally, but preparedness is required. If any damage should occur, the instigator shall be held responsible (i.e. damage to public property)",
+        "date": "Passed 1409 CDT August 30 2020",
+        "amendments": 0
+    },
+    "33": {
+        "name": "Article 33",
+        "description": "Only Councilmen, and those employed by NCTA or NCCA, may be given Creative privileges. This is for the purpose of reducing cheating and should be used with any previous Creative related laws.",
+        "date": "Passed 1217 CDT September 6 2020",
+        "amendments": 0
+    },
+    "34": {
+        "name": "Article 34 (Economy Act)",
+        "description": "Effective on September 12, 2020, the Credit is the new currency and standard of the New Caledonian economy. Each citizen will be given 64 Credits, and also may trade in 128 Emeralds for 1 Credit until an undisclosed date and time. Taxes have been reset accordingly, as set in Article 31 Amendment 1 and/or later. Furthermore, Article 34 establishes the Bank of New Caledonia (BONC). Checks may be used, but BONC must be notified so as to move funds accordingly.",
+        "date": "Passed 2025 CDT September 6 2020",
+        "amendments": 1
+    },
+    "34.1": {
+        "name": "Article 34 Amendment 1",
+        "description": "Instead of 64 Credits, each citizen will be issued 128 Credits on September 12. This does not affect the value or trading of Emeralds.",
+        "date": "Passed 2326 CDT September 10 2020",
         "amendments": 0
     }
 }
