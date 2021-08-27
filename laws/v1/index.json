@@ -614,7 +614,25 @@
     "67": {
         "name": "Article 67",
         "description": "Article 65 is hereby invalid. It was simply done for show, and should not reflect as an impediment to the Republic.",
-        "date": "Passed 1938 CST February 12",
+        "date": "Passed 1938 CST February 12 2021",
+        "amendments": 0
+    },
+    "68": {
+        "name": "Article 68",
+        "description": "The following holidays are established and recognized by the Nation of New Caledonia:\nRepublic Day - February 6\nFounder's Day - April 21\nCitizen's Day - May 17\nNice - June 9 and September 6",
+        "date": "Passed 2018 CST February 24 2021",
+        "amendments": 0
+    },
+    "69": {
+        "name": "*Article 69*",
+        "description": "Nice.",
+        "date": "Passed 2018 CST February 24 2021",
+        "amendments": 0
+    },
+    "70": {
+        "name": "Article 70",
+        "description": "If there is a motion that the Council feels should be brought to the populus, they may do so, once every four months. They must present the wording of the article as part of a major ballot. Should they choose to edit either after or during, they may do so, given that the new wording does not contradict or add to the original. After the election closes, if the law holds a simple majority of popular vote, it passes, with a tie constituting a failure to pass.",
+        "date": "Passed 1144 CST February 27 2021",
         "amendments": 0
     }
 }
