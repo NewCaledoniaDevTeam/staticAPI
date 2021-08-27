@@ -22,6 +22,11 @@
     "4": {
         "name": "Article IV",
         "description": "When referencing the Province of Shrewsbuquerque, it is only acceptable to do so by its full name: Shrewsbuquerque.",
+        "amendments": 1
+    },
+    "4.1": {
+        "name": "Article IV Amendment A",
+        "description": "When referring to official and nationally recognized positions, Shrewsbuquerque can be shortened only by those who too have an nationally recognized position, heretics will not be allowed to shorten the name no matter what position.",
         "amendments": 0
     },
     "5": {
@@ -139,6 +144,11 @@
         "description": "July 1-7 is officially the Spite Brits Week.",
         "amendments": 0
     },
+    "21": {
+        "name": "Article XXI Amendment A",
+        "description": "December 14 will officially be known as "Darzos Day", to celebrate the birth of our great religion",
+        "amendments": 0
+    },
     "22": {
         "name": "Article XXII",
         "description": "The Province of Shrewsbuquerque Discord server may have ONE (1) pro-swearing chat, given it is marked as an NSFW chat. This is the only chat in which this will be allowed.",
@@ -148,6 +158,11 @@
         "name": "Article XXIII",
         "description": "Insults against and about being a heretic are legal, but will only apply to those labeled as heretics within the province, or those outside of the providence who are willing to be labeled as such.",
         "amendments": 0
+    },
+    "23.1": {
+        "name": "Article XXIII Amendment A",
+        "description": "Heretics who break the law will be punished by burning in a designated heretic burning area. Monthly, they can be burned for no reason at all besides the fact that they are heretics. Items will be saved, we are not monsters. A chest of bottles of enchanting will be owned (creatively obtained) in order to give people back the experience they had in cases where we had burned them because we wanted to.",
+        "amendments": 1
     },
     "24": {
         "name": "Article XXIV",
