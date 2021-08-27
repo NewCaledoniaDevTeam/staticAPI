@@ -1,0 +1,13 @@
+{
+    "0": {
+        "name": "Article Example",
+        "description": "Article Description Example",
+        "date": "Passed MILTIME CDT Month Day Year"
+        "amendments": 0
+    },
+    "1": {
+        "name": "Article 1",
+        "description": "New Caledonia is a pretty freaking cool place.",
+        "amendments": 0
+    }
+}
