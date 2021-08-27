@@ -25,7 +25,7 @@
         "amendments": 0
     },
     "5": {
-        "name": "Article 5 (Hierarchical Act):",
+        "name": "Article 5 (Hierarchical Act)",
         "description": "Dealing with the hierarchy of locations and their definitions:\n-Nation:Everything within the land. Collectively known as the New Caledonia, the Nation of The Future\n-District: Buildings federally recognized by the VALID to be outside of the jurisdiction of the cities. Only known district is the District of Danketsu\n-Capitol: One city. As of November 28, 2020, this is the City of Crestview. It is to be divided into boroughs, each of which get one Council seat. The Capitol may be changed at any time, but must receive a unanimous national vote.\n-City: An incorporated town. In order to be incorporated, it must receive a fully positive Council vote. It would receive an official road and rail system, along with an Enforcer station. Currently includes Crestview, Twin Peaks, and New Vegas\n-Province: A mostly autonomous region with its own laws including national laws.\n-Town: Term is interchangeable with \"village\". It is defined as a village or unincorporated cluster of buildings. ",
         "amendments": 0
     },
@@ -112,6 +112,116 @@
     "22": {
         "name": "Article 22 (Word Choice Act)",
         "description": "The Music Bot must be at most 5% volume unless all those on the voice channel consent to it being raised, a minimum of 2 days in prison for those who break this law. Yelling and repeating things can get you banned from the chat. Angered and ranting citizens can be removed for a maximum of 15 minutes for a chance to cool down.",
+        "amendments": 0
+    },
+    "23": {
+        "name": "Article 23 (Logo Act)",
+        "description": "Deletion of the last of anyone’s logo is hereby prohibited, whether accidental or deliberate. Transgression is punishable as robbery.",
+        "amendments": 0
+    },
+    "24": {
+        "name": "Article 24 (Lawsuit Act)",
+        "description": "When a lawsuit is recorded, the lawsuit must be held 14 days after the date recorded, unless for a reason agreed to by both the plaintiff and defendant. A lawsuit may be held either over voice or text, given that there is a judge online and available to preside. Both sides must agree on the time and medium. If one of the parties does not agree to three different times in a row without reason, they concede the case and will be found guilty for obstructing justice. If the other party allows the disagreement, more times can be used.",
+        "amendments": 0
+    },
+    "25": {
+        "name": "Article 25 (Conviction Act)",
+        "description": "The time between any punishment announcement and the implementation of that same punishment may be no less than seven days, nor can it exceed that mark. During this time, the convict is to be labeled as such and may not join the Minecraft server except with a chaperone. Should the punishment be a fine, a chaperone is unnecessary, but the fine must be paid during this seven day period.",
+        "amendments": 0
+    },
+    "26": {
+        "name": "Article 26 (Appealment Act)",
+        "description": "This article sets into motion the ability for those convicted to appeal their punishments. Primarily, the ruling of the judge is final. However, if and only if the decided punishment is greater than the equivalent of a seven day ban, the convict may elect to appeal the punishment. Should they make this decision, they will notify the judge on the case, who will, within 12 hours of the request, create an open argument session for the convict to present their case.  If no judge is available, this will fall to all available councilmen. If there is none, it then falls to all available enforcers. After this time, the council will vote. If a majority, uninvolved council votes to overturn the previous punishment, the motion will go to a popular vote. If a simple majority (greater than 50%) votes to overturn that punishment, the punishment is thus overturned. Should either of these criteria fail to occur, the appeal fails. If the motion is successful, the council will work to impose a new and less cruel punishment on the convict (which must be less than the equivalent of a 7 day ban), which will begin immediately after the entire process has concluded. This process must be conducted within the 7 day gap between the announcement and the punishment, and may only happen once per offense.",
+        "amendments": 0
+    },
+    "27": {
+        "name": "Article 27 (Ban Act)",
+        "description": "When getting kicked off the server as required by council verdict, or when leaving and revolking one’s own citizenship, a citizen must give away their belongings. After doing so, and before they are officially removed, they must submit a log of whom their belongings were given to. Failure to follow either of these steps may result in all property becoming that of the National Council. The council may do with it as they see fit, at the discretion of a majority vote.",
+        "amendments": 0
+    },
+    "28": {
+        "name": "Article 28 (Not Nice Act)",
+        "description": "Do not kill people, steal from people, or trespass on people’s property, that’s not nice. Trespassing does not include people flying over or possible mining strips underneath, though do not use these mining strips to enter others property. Stealing of ideas like slogans and logos imply.",
+        "amendments": 0
+    },
+    "29": {
+        "name": "Article 29 (Mine Act)",
+        "description": "Mines are public property.",
+        "amendments": 0
+    },
+    "30": {
+        "name": "Article 30 (Vegas Act)",
+        "description": "Gambling is legal. Private businesses may use any form of gambling with participants aware of the rules, while only the Vegas Rules will be nationally recognized. (i.e. You cheat, you die).",
+        "amendments": 0
+    },
+    "31": {
+        "name": "Article 31 (Item Act)",
+        "description": "No command blocks, TNT, spawns, or invisibility potions may be used. Exceptions include TNT used for mining or command blocks and spawns given permission by the council. None of these items can be distributed. The creation of unauthorized maps is illegal and can be punishable by ban.",
+        "amendments": 0
+    },
+    "32": {
+        "name": "Article 32 (Creative Act)",
+        "description": "Those who have been given Creative privileges are prohibited from sharing Creative sourced items with those who have not. This is punishable by a revoking of Creative privileges and may result in a loss of office. People with creative privileges include members of NCTA, NCCA, and NCCA approved projects. People with operator privileges include Councilmen, Governors, Enforcers, and NCCA projects that are nationally approved.",
+        "amendments": 0
+    },
+    "33": {
+        "name": "Article 33 (Business Act)",
+        "description": "Businesses selling goods must have a physical location, defined by a non-temporary building taking up at least a 10X10 space, while Businesses selling services are not required to have a location. Businesses selling food must specify they are an eatery. The business and the owner are legally one in the same, and any crimes committed by the business and lawsuits against the business will be tried as such. No false advertising. Businesses can only have one in-game logo unless given permission by the council.",
+        "amendments": 0
+    },
+    "34": {
+        "name": "Article 34 (Reference Act)",
+        "description": "NO SWEARING ON MY CHRISTIAN (+1 Jew) MINECRAFT SERVER!!! References to swearing and drugs are illegal. Swearing once within the discord server is allowed, but must not be used to bully or harass other citizens, and must not be intentionally pointed out by the owner of the status.",
+        "amendments": 0
+    },
+    "35": {
+        "name": "Article 35 (Hosting Act)",
+        "description": "Any building commissioned by the NCCA is open to event hosts. However, in order to add a person or company name to the event or pay participants, it must be approved by a majority Council.",
+        "amendments": 0
+    },
+    "36": {
+        "name": "Article 36 (Area 51 Act)",
+        "description": "Raids can be started legally, but preparedness is required. If any damage should occur, the instigator shall be held responsible (i.e. damage to public property).",
+        "amendments": 0
+    },
+    "37": {
+        "name": "Article 37 (Darzodian Act)",
+        "description": "New Caledonia abides by a freedom of religion unless said religion endangers others or violates the Constitution in any way.",
+        "amendments": 0
+    },
+    "38": {
+        "name": "Article 38 (Holiday Act)",
+        "description": "The following holidays are established and recognized by the Nation of New Caledonia:\nRepublic Day - February 6\nFounder's Day - April 21\nCitizen's Day - May 17\nNice - June 9 and September 6",
+        "amendments": 0
+    },
+    "39": {
+        "name": "Article 39 (Public Opinion Act)",
+        "description": "If there is a motion that the Council feels should be brought to the populus, they may do so, once every four months. They must present the wording of the article as part of a major ballot. Should they choose to edit either after or during, they may do so, given that the new wording does not contradict or add to the original. After the election closes, if the law holds a simple majority of popular vote, it passes, with a tie constituting a failure to pass.",
+        "amendments": 0
+    },
+    "40": {
+        "name": "Article 40 (Speech Act)",
+        "description": "The Press of New Caledonia has the right to publish whatever depiction of any person, entity, or event, given that said depiction is factual (meaning "can be proven") or is denoted as some variation of an opinion piece. As a tradeoff, the news outlets themselves must be non-profit in order to receive this protection. If these conditions are violated, the protection is revoked, and the outlet is subjected to any lawsuits that may follow.",
+        "amendments": 0
+    },
+    "41": {
+        "name": "Article 41 (Relationship Act)",
+        "description": "On fraternal/romantic relations within the server. Should someone involved in a relationship of a fraternal or romantic nature with a current citizen apply for citizenship, they are required to declare this relationship, and the Council is required to take it into account when voting. As such, a question fitting this declaration will be added to the questionnaire. It is legal for this person to join despite this; however, should their relationship at any point involve the rest of the server, both citizens involved will be suspended for a minimum of two weeks. Likewise, should a relationship of this nature develop between two existing citizens, they are required to declare it and follow the same guidelines.",
+        "amendments": 0
+    },
+    "42": {
+        "name": "Article 42 (Skins Act)",
+        "description": "No inappropriate skins (examples: bikinis and shirtless skins or having inappropriate implications).",
+        "amendments": 0
+    },
+    "43": {
+        "name": "Article 43 (School Act)",
+        "description": "During the school year, with notable exceptions given by the Council, no person shall be on New Caledonia's Minecraft until school/homework is done, including any parameters set by the parent of the affected (including chores). School and lunch breaks are allowed. No one is allowed to enter the Minecraft server after one's given a curfew. Curfew given by New Caledonia will be in two groups: Elders: Alex, Connor, Nate, Alan, and anyone else who is decided by the council. Alpha: Eddie, Joey, Daniel, Ethan, Aidan, and anyone else who is decided by the council. Elder curfew is 23:00 their time zone. Alpha curfew is 22:30 their time zone. In order to enforce this properly, when a time zone changes, it must be reported. This article may be temporarily revoked for certain breaks (i.e. Winter, Spring, Fall break).",
+        "amendments": 0
+    },
+    "44": {
+        "name": "Article 44* (Tax Act)",
+        "description": "A $5 Citizenship Tax will be collected each month on the 15th.",
         "amendments": 0
     }
 }
