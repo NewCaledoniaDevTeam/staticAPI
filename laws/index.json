@@ -37,6 +37,12 @@
     "7": {
         "name": "Article 7 (Election Act)",
         "description": "All Council elections are to be held publicly. All senator seats representing burroughs are to be held privately. If there comes a tie in a Council election, a second election will be held between the tied candidates, assuming they are tied for the most accumulated votes and there are other votes down. If this election also results in a tie or is voided, an Electoral College will be created for another election. If at that point the election is still tied, a purely random selector will be employed to select the Councilman. After the successful election of all the council members, they will elect a Speaker of the Council, which will choose a Deputy Speaker between the other two. Senators will also own a speaker equivalent known as the Chancellor, voted upon by the council.",
+        "amendments": 1
+    },
+    "7.1": {
+        "name": "Article 7 - Amendment 1",
+        "description": "Provincial leaders (equivalents of the Basileus in Eternalia, Lord High Governor of All That Is Capitalist And Darzodian in Shrewsbuquerque, and the CEO in the State of Cheese) may not run in any elected Senate race outside of their own province. They may still be appointed to any seat at the discretion of those charged with the appointment. This is effective for the August 2021 cycle.",
+        "date": "Passed 2018 CDT July 27 2021",
         "amendments": 0
     },
     "8": {
@@ -164,6 +170,12 @@
         "description": "Those who have been given Creative privileges are prohibited from sharing Creative sourced items with those who have not. This is punishable by a revoking of Creative privileges and may result in a loss of office. People with creative privileges include members of NCTA, NCCA, and NCCA approved projects. People with operator privileges include Councilmen, Governors, Enforcers, and NCCA projects that are nationally approved.",
         "amendments": 0
     },
+    "32.1": {
+        "name": "Article 32 - Amendment 1",
+        "description": "Command blocks may be approved when meeting the following criteria: For both provincial and national government defense, construction, or transportation, motions must be approved by a majority of the Council or Senate, plus a liaison from the appropriate national agency, who can be part of the voting body. For any other use, motions must be approved by a full Council or two thirds Senate vote.",
+        "date": "Passed 2108 CDT July 31 2021",
+        "amendments": 0
+    },
     "33": {
         "name": "Article 33 (Business Act)",
         "description": "Businesses selling goods must have a physical location, defined by a non-temporary building taking up at least a 10X10 space, while Businesses selling services are not required to have a location. Businesses selling food must specify they are an eatery. The business and the owner are legally one in the same, and any crimes committed by the business and lawsuits against the business will be tried as such. No false advertising. Businesses can only have one in-game logo unless given permission by the council.",
@@ -222,6 +234,18 @@
     "44": {
         "name": "Article 44* (Tax Act)",
         "description": "A $5 Citizenship Tax will be collected each month on the 15th.",
+        "amendments": 0
+    },
+    "45": {
+        "name": "Article 45",
+        "description": "The official names of all Ender Dragons on the New Caledonia server are hereby Obama, with the last name up for interpretation.",
+        "date": "Passed 0024 CDT July 29 2021",
+        "amendments": 0
+    },
+    "46": {
+        "name": "Article 46",
+        "description": "Any and all artificial XP farms are prohibited within the limits of the following cities: the City of New Caledonia, the City of Starkville, the City of New Llanfairpwllgwyngyllgogerychwyrndrobwllllantysiliogogogoch, the City of Eternalia (ETE), the City of New Taivas (MKJ), Waffle City (Shrewsbuquerque), Wayward Pines (Shrewsbuquerque), and Hahira (Shrewsbuquerque). Cities may be added to this list via amendments. Furthermore, city limits are defined as within sight of the nearest building within that city. Provinces may opt out if they so choose, and this motion must be approved by a majority of the Council or Senate.",
+        "date": "Passed 0917 CDT August 17 2021",
         "amendments": 0
     }
 }
