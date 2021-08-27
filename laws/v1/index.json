@@ -316,5 +316,305 @@
         "description": "Instead of 64 Credits, each citizen will be issued 128 Credits on September 12. This does not affect the value or trading of Emeralds.",
         "date": "Passed 2326 CDT September 10 2020",
         "amendments": 0
+    },
+    "35": {
+        "name": "Article 35 (Deletion Act)",
+        "description": "Deletion of the last of anyone’s logo is hereby prohibited, whether accidental or deliberate. Transgression is punishable as robbery.",
+        "date": "Passed 1035 CDT September 13 2020",
+        "amendments": 0
+    },
+    "36": {
+        "name": "Article 36",
+        "description": "False advertising or false presentation of any product is prohibited. Businesses caught engaging in this act will be shut down for an amount of time dependent on the severity.",
+        "date": "Passed 0047 CDT September 15 2020",
+        "amendments": 0
+    },
+    "37": {
+        "name": "Article 37 (Creativity Act)",
+        "description": "Stealing of ideas for a business logo and/or slogan are hereby prohibited. Violation of this will lead to a fine dependent on the severity of the violation. \"Stealing\" is based on the entire Council's discretion. If it is not unanimous, no action will be taken.",
+        "date": "Passed 0016 CDT September 19 2020",
+        "amendments": 0
+    },
+    "38": {
+        "name": "Article 38",
+        "description": "Any sort of tampering with chats not by the set owner, if applicable, is hereby prohibited, and will be treated as destruction of public or private property.",
+        "date": "Passed 1704 CDT September 20 2020",
+        "amendments": 0
+    },
+    "39": {
+        "name": "Article 39",
+        "description": "The creation of insulting or offensive roles meant to single certain citizens out is hereby a form of harassment and is therefore illegal.",
+        "date": "Passed 0750 CDT September 24 2020",
+        "amendments": 0
+    },
+    "40": {
+        "name": "Article 40",
+        "description": "More than one logo in Minecraft for a single company is illegal. However, exceptions can be made by a majority of Councilmen.",
+        "date": "Passed 2021 CDT September 26 2020",
+        "amendments": 0
+    },
+    "41": {
+        "name": "Article 41",
+        "description": "This is applicable to Connor McClintic and Eddie Saucer, as an agreed precaution to end their conflict. If either of them sue for a bad reason or deliberately pick fights as determined by the moderator, Speaker Alex Snyder, they will receive 7 days of ban, and 1 month of probation per offense. They will receive court, and the charge will be brought as perjury and violation of contract. This agreement will be effective immediately, and that any laws against this are void in the interest of National Security.",
+        "date": "Passed 2316 CDT October 3 2020",
+        "amendments": 0
+    },
+    "42": {
+        "name": "Article 42",
+        "description": "When a lawsuit is recorded, the lawsuit must be held 14 days after the date recorded, unless for a reason agreed to by both the plaintiff and defendant. A lawsuit may be held either over voice or text, given that there is a judge online and available to preside",
+        "date": "Passed 1445 CDT October 6 2020",
+        "amendments": 0
+    },
+    "43": {
+        "name": "Article 43",
+        "description": "Spawns are prohibited unless approved by a majority Council. Many entity spawns may be approved at once, but the exact number must be specified.",
+        "date": "Passed 1445 CDT October 6 2020",
+        "amendments": 0
+    },
+    "44": {
+        "name": "Article 44",
+        "description": "The server administrator hereby has rights to do what he feels necessary for the server to thrive on the digital platform, but the entire innocent Council has the right to overturn his decision. Furthermore, any unauthorized sharing of or tampering with by the server or IP address is prohibited and can be punished with a ban.",
+        "date": "Passed 1946 CDT October 10 2020",
+        "amendments": 1
+    },
+    "44.1": {
+        "name": "Article 44 - Amendment 1",
+        "description": "The creation of unauthorized maps is prohibited; any created will be promptly deleted and the creator prosecuted.",
+        "date": "Passed 1737 CDT October 22 2020",
+        "amendments": 0
+    },
+    "45": {
+        "name": "Article 45",
+        "description": "Sending an unauthorized Discord link/invite is hereby prohibited.",
+        "date": "Passed 0755 CDT October 20 2020",
+        "amendments": 1
+    },
+    "45.1": {
+        "name": "Article 45 - Amendment 1",
+        "description": "Invites are legal if sent within the New Caledonia populous. One Councilman is needed to ratify invites for prospective applicants, but he must notify the other Councilmen. Other invite-related articles stand. Any invite-related charges currently standing are hereby dropped.",
+        "date": "Passed 0755 CDT October 20 2020",
+        "amendments": 0
+    },
+    "46": {
+        "name": "Article 46",
+        "description": "Unapproved citizens, but those with approved invites, may join the Discord server, but they may only text in citizen-applications chat to answer questions asked by councilmen if more information is needed. A case must be made for them by the one inviting within 7 days of the invite only in the <#768627910415876096>(#citizen-applications) chat, where the invitee will answer the following inquiries: name, age, time zone (in form of GMT), who sent the invite and how, how the invitee knows the inviter, whether or not the invitee has read the laws coupled with a specific law-related question, consent to a citizen test and taxes, potential plans on the server, Minecraft Bedrock username, and experience of Minecraft (in years). The questioning is not necessarily limited to the aforementioned. If the Council sees fit, they may ask other questions.",
+        "date": "Passed 2136 CDT October 21 2020",
+        "amendments": 4
+    },
+    "46.1": {
+        "name": "Article 46 - Amendment 1",
+        "description": "Following the completion of the given questionnaire by the citizen applicant, they will be required to take the laws test. They will have one attempt, in an open-book manner, that must be done 24 hours after administration. Following that, any opinions on whether or not the applicant should be admitted will be given, and 24 hours later, the Council will hold the official vote, of which the applicant must gain a 100% vote. If any of this is not met, the applicant will be denied citizenship and may reapply in 14 days.",
+        "date": "Passed 1745 CDT October 23 2020",
+        "amendments": 0
+    },
+    "46.2": {
+        "name": "Article 46 - Amendment 2",
+        "description": "Applicants will be allowed on Minecraft, but must be supervised and getting on must be approved in advance by 1 Councilman. If the applicant is on unsupervised or unapproved, the applicant is denied immediately. A 7 day observational period between allowing on Minecraft and final vote. The questionnaire may be done during that period, and the quiz is to be done after the final vote. If a potential applicant does not join within 7 days of invite approval, the invite approval becomes void. This applies to active invites and application processes.",
+        "date": "Passed 2050 CST November 10 2020",
+        "amendments": 0
+    },
+    "46.3": {
+        "name": "Article 46 - Amendment 3",
+        "description": "Standing citizens may have their citizenship revoked on the basis of 21 days of relative inactivity. For this to happen, however, all Councilmen must vote them out. If voted out, they will receive 7 days' notice before being kicked. If activity is promised, the kicked person may reapply for citizenship in 14 days, but the process will be waived. During the 7 day notification period, the affected is to write a will to account for any belongings.",
+        "date": "Passed 1811 CST November 20 2020",
+        "amendments": 0
+    },
+    "46.4": {
+        "name": "Article 46 - Amendment 4",
+        "description": "Conditional citizens may only remain conditional for a maximum of 14 days. After this period, they will be kicked, and must reapply after a 14-day cooldown.",
+        "date": "Passed 0619 CDT March 15 2020",
+        "amendments": 0
+    },
+    "47": {
+        "name": "Article 47",
+        "description": "Results of any Council vote including the ratification/denial of a petition or bill are to remain confidential unless released with the permission of the entire Council.",
+        "date": "Passed 2049 November 18 2020",
+        "amendments": 0
+    },
+    "48": {
+        "name": "Article 48",
+        "description": "Ongoing terror or criminal threats will be denoted by severity on a Force Protection Condition list as follows:\nAlpha: No threat is determined, typical position. \nBravo: Terror or criminal threat may affect a municipal area at large. \nCharlie: Terror or criminal threat may affect a population and/or commerce center. \nDelta: Terror or criminal threat may affect the Capitol or other federal buildings. \nEcho: Terror or criminal threat is actively affecting any of the previously denoted levels.\nAll unsuspected Councilmen must agree to change a FPCON setting.",
+        "date": "Passed 2008 CST November 21 2020",
+        "amendments": 0
+    },
+    "49": {
+        "name": "Article 49",
+        "description": "Dealing with the definitions of Capitol, City, and Town.\n-Town: Term is interchangeable with \"village\". It is defined as a village or unincorporated cluster of buildings.\n-City: An incorporated town. In order to be incorporated, it must receive a fully positive Council vote. It would receive an official road and rail system, along with an Enforcer station.\n-Capitol: One city. As of November 28, 2020, this is the City of New Caledonia. It is to be divided into boroughs, each of which get one Council seat. The Capitol may be changed at any time, but must receive a unanimous national vote.",
+        "date": "Passed 2015 CST November 28 2020",
+        "amendments": 0
+    },
+    "50": {
+        "name": "Article 50",
+        "description": "Potential offenses of swearing and drug references are hereby punishable without a trial, and instead will be decided by a majority innocent Council regardless of whether or not the punishment includes a ban.",
+        "date": "Passed 1154 CST December 22 2020",
+        "amendments": 0
+    },
+    "51": {
+        "name": "Article 51 (Emergency Act)",
+        "description": "If the Council requires an immediate decision, it may provide it without all necessary Councilmen present if the second-place man (i.e. the backup) is available. The backup will provide his vote, provided it is later confirmed by the sitting Councilman.",
+        "date": "Passed 0028 CST December 27 2020",
+        "amendments": 0
+    },
+    "52": {
+        "name": "Article 52",
+        "description": "Lawsuits must require both parties to agree on a time and medium, whereas criminal court does not.",
+        "date": "Passed 2108 CST January 9 2021",
+        "amendments": 1
+    },
+    "52.1": {
+        "name": "Article 52 - Amendment 1",
+        "description": "If one party refuses to agree to a reasonable time and medium without good reason (both requirements defined by the presiding judge) three times in a row this party concedes the case and is found guilty of obstruction of justice. If the opposing party is willing to cooperate with the amount of refuses, they have the authority to increase the amount; however, this is on a case-by-case basis.",
+        "date": "Passed 1324 CST February 21 2021",
+        "amendments": 0
+    },
+    "53": {
+        "name": "Article 53",
+        "description": "All Council elections are to be held as public by default (i.e. votes from every eligible full national citizen are taken). However, if a majority (>50%) of in-borough candidates agrees, the election may be made private (only in-borough votes will be counted).",
+        "date": "Passed 1327 CST January 10 2021",
+        "amendments": 0
+    },
+    "54": {
+        "name": "Article 54 (Adams-Jefferson Act)",
+        "description": "If there comes a tie in a Council election, a second election will be held between the tied candidates, assuming they are tied for the most accumulated votes. This secondary election will be held in the opposite form as the primary. That is to say, using the definitions provided in Article 53, if the primary election was public, the secondary will be private, and vice versa. If this election also results in a tie, an Electoral College will be created for a tertiary election. If a candidate wins the majority of votes in one borough, they win that borough's vote. If at that point the election is still tied, a purely random selector will be employed to select the Councilman.",
+        "date": "Passed 1415 CST January 10 2021",
+        "amendments": 0
+    },
+    "55": {
+        "name": "Article 55 (Michigan Act)",
+        "description": "For every Council election, including those required by successful impeachments, the Speaker of the Council and one other Councilman by his appointment will be in charge. By unanimous Council appointment, one non-candidate from each borough will be selected as an Election Integrity Monitor (EIM). They will be able to see the platform used for elections, but will be given no administrative rights. These EIMs will be appointed immediately after the campaign announcement window closes, and will serve as a final check of the legitimacy of election processes.",
+        "date": "Passed 1722 CST January 12 2021",
+        "amendments": 0
+    },
+    "56": {
+        "name": "Article 56 (California-Texas Act)",
+        "description": "The act of borough-switching is prohibited, unless approved by a full Council vote.",
+        "date": "Passed 1226 CST January 18 2021",
+        "amendments": 0
+    },
+    "57": {
+        "name": "Article 57 (Columbian Act)",
+        "description": "Certain federal buildings will be taken from borough jurisdiction and moved to the District of Crestview, an organized district that is under the jurisdiction of the Council at large. This District will not be represented in the Council, and any and all buildings added to it must be voted on, and approved by a full Council vote. Additional area for the District's jurisdiction includes 3 blocks in any direction. Moreover, the list of buildings included in the District of Crestview must be kept and regularly maintained in the Voting Alignment and Legal Information Document (VALID).",
+        "date": "Passed 2024 CST January 23 2021",
+        "amendments": 1
+    },
+    "57.1": {
+        "name": "Article 57 - Amendment 1",
+        "description": "Following the dubbing of the Borough of Crestview, the former District of Crestview is now the District of Danketsu.",
+        "date": "Passed 2158 CDT April 11 2021",
+        "amendments": 0
+    },
+    "58": {
+        "name": "Article 58",
+        "description": "No citizen who is banned may hold a Council seat. As such, banned citizens may not announce campaigns until their ban ends, and must suspend any ongoing campaigns during the ban. Also, sitting Councilmen convicted and banned yield their seat to a backup, who is typically the second place winner in the most recent election. If that is not available, a backup will be appointed. These backups will be noted in the Voting Alignment and Legal Information Document. Citizens are allowed to hold seats while under probation.",
+        "date": "Passed 1423 CST January 26 2021",
+        "amendments": 1
+    },
+    "58.1": {
+        "name": "Article 58 - Amendment 1",
+        "description": "If the sitting Councilman is otherwise unable to perform his duties, the next person in line will take over his seat. This will be done by inauguration, and the original Councilman will take back over when he can. Furthermore, the second in line will be an appointee by the sitting Councilman, and if there is nobody appointed, the second place winner will be next in line. This position will be known as Deputy Councilman, and colloquially as DC.",
+        "date": "Passed 1201 CST January 27 2021",
+        "amendments": 0
+    },
+    "59": {
+        "name": "Article 59",
+        "description": "If a crime occurs, an investigation may be opened within 2 weeks of the discovery, which must be documented. If an investigation is foregone, the arrest warrant must be created within 2 weeks of the discovery.",
+        "date": "Passed 2036 CST January 26 2021",
+        "amendments": 0
+    },
+    "60": {
+        "name": "Article 60 (Charlottesville Act)",
+        "description": "On the enforcement of the written law of New Caledonia. The set Enforcers are to enforce the law when it is broken by means reasonably fitting of the crime. Sitting Councilmen may also do so, but exclusively through jailing. In other words, no harm shall come to the offender in that case. If both are available, the Enforcer is to do the job, not the Councilman. Defense of one's own property is legal by all means, except when those means disrupt the property of others. Defense of oneself is legal, except when used against an act that is explicitly legalized above. The two aforementioned groups are not to abuse or use this power to provoke an offender. Doing so is punishable by a graduated punishment, starting with a 3 day ban and 10 Credit fine, advancing by 1 day and 5 Credits with each offense. Any instance in which the legality of any act concerning this Article will be decided in court with a citizen, non-Councilman, non-Enforcer decided by a full innocent Council presiding. All Enforcers are given Operator permissions, and may use Creative privileges and teleportation only when necessary.",
+        "date": "Passed 1828 CST January 27 2021",
+        "amendments": 0
+    },
+    "61": {
+        "name": "Article 61 (Puerto Rico Act)",
+        "description": "In order to become a Province, a territory must do the following:\n-Verify 4 full citizens as citizens of the Province\n-Elect a Governor. His title will be "Governor". The Governor may not be a Councilman simultaneously.\n-Appoint a Provincial Ambassador. This Ambassador is to serve as a liaison for the Province to the Council. Though they will receive no Council votes, they may suggest laws in the Council.\n-The Governor and Provincial Ambassador may be allowed to be the same person. This restriction or lack thereof must be included in the provincial Constitution.\n-All provincial citizens will remain in their set boroughs for national voting purposes. They have dual citizenship, in the Nation and Province, but may only be a citizen of one Province.\n-The provincial Constitution must be approved by the full Council. It cannot contradict national constitution, and must be continuously kept up to date to match that of the Nation at large.\n-Provide geographical borders, inside of which their Constitution may be enforced. Exclusively within these borders may the provincial Constitution be enforced.\n-Establish a hub of sorts. This will be a place where the provincial government will be based.\n-Must have a logo compatible with the world.\n-Must have at least one Enforcer station\nFurthermore:\n-The Governor gets Operator rights while in the world.\n-Every citizen gets Creative rights for 1 month after the Province is approved.\n-Aside from NCTA highways, the ability to build roads falls under provincial jurisdiction. The NCTA can be recruited for the purpose of building national highways.\n-New laws must be passed by at least 2 Councilmen, and must be visible to the rest of the Council.\n-The Province must determine everything set forth in A61 and future revisions, including how to pass laws, in the primary draft of the provincial Constitution.",
+        "date": "Passed 1831 CST January 27 2021",
+        "amendments": 8
+    },
+    "61.1": {
+        "name": "Article 61 - Amendment 1 (Tuscaloosa Act)",
+        "description": "Each province is welcome, but not required, to create an Enforcer branch, under the jurisdiction of the governor and appointed committee with a minimum of 2 members (not including the governor), with the ability for the National Council to federalize it with a majority vote, and only holding Enforcer rights within the province. The province has free reign in the naming and organization of this branch, but all members are required to follow all restraints expected of national Enforcers. The province organization within the Enforcer program could consist of National Enforcers and province citizens, however, it cannot have any current Councilmen. The provincial National Guard may make arrests, but only for provincial citizens in violation of provincial laws in provincial territory.",
+        "date": "Passed 1837 CST February 11 2021",
+        "amendments": 0
+    },
+    "61.2": {
+        "name": "Article 61 - Amendment 2",
+        "description": "Citizens may be citizens of a maximum of two provinces at a time. However, they may only hold one official role between the two provinces (official roles are Provincial Ambassador and Governor).",
+        "date": "Passed 0002 CST March 4 2021",
+        "amendments": 0
+    },
+    "61.3": {
+        "name": "Article 61 - Amendment 3",
+        "description": "On the expansion of existing Provinces. A majority Council may approve a provincial expansion petition, adding a land amount equivalent to a maximum of forty percent of the original (when first approved) provincial area. This is an action that may only be done once every election cycle per province. If the expansion includes an already-recognized city or town, the expansion requires full Council approval. Likewise, a full Council vote can be used to override the 40% restriction.",
+        "date": "Passes 0120 CDT March 14 2021",
+        "amendments": 0
+    },
+    "61.4": {
+        "name": "Article 61 - Amendment 4",
+        "description": "Provinces may create laws in their own constitutions that contradict those of the National Constitution, if approved by a full Council vote. However, a second full Council vote may require that they repeal the aforementioned law.",
+        "date": "Passed 2356 CDT March 21 2021",
+        "amendments": 0
+    },
+    "61.5": {
+        "name": "Article 61 - Amendment 5",
+        "description": "Should there be a violation of National law to occur whilst under Provincial jurisdiction, the case may be tried in Provincial court with the ruling handed to the National Council given a full National Council vote.",
+        "date": "Passed 1931 CDT April 2 2021",
+        "amendments": 0
+    },
+    "61.6": {
+        "name": "Article 61 - Amendment 6",
+        "description": "Immediately after a Province is formed and accepted, it will be given a monetary amount equal to 32 National Credits. This money is to come from generation.",
+        "date": "Passed 1954 CDT April 2 2021",
+        "amendments": 0
+    },
+    "61.7": {
+        "name": "Article 61 - Amendment 7",
+        "description": "Governors are no longer required for provinces; however, a ruling body must be declared in the official ruling document, along with the method by which they are chosen. At least one involved person in the top ruling body cannot be on the National Council, and none of those involved may be in the ruling body of any other Province. The ruling documents may also be amended to fit whatever style of government is chosen for the Province, with the new ruling body involved in legislation.",
+        "date": "Passed 2111 CDT April 12 2021",
+        "amendments": 0
+    },
+    "61.8": {
+        "name": "Article 61 - Amendment 8",
+        "description": "The simeultaneous provincial citizenship limit is hereby disbanded. However, each citizen must choose a primary province from which they can hold national office. This may be changed once every Senatorial election cycle. Other restrictions from the referenced Amendment remain.",
+        "date": "Passed 2107 CDT July 5 2021",
+        "amendments": 0
+    },
+    "62": {
+        "name": "Article 62",
+        "description": "New Caledonia abides by a freedom of religion unless said religion endangers others or violates the Constitution in any way.",
+        "date": "Passed 1224 CST January 31 2021",
+        "amendments": 0
+    },
+    "63": {
+        "name": "Article 63",
+        "description": "The Council hereby establishes the National Investigation Agency, or NIA. This Agency is separate from the Enforcer corps, and may not give arrest warrants. Applications may be filled out and used, and requirements are up to the discretion of the Director, who will be chosen within that group (comprised of no more than 5 members) every 4 months. The Director will serve as the face of the Agency. All agents aside from the Director are to have their identities remain confidential. To release the names of members besides oneself is punishable by law.",
+        "date": "Passed 0931 CST February 8 2021",
+        "amendments": 0
+    },
+    "64": {
+        "name": "Article 64",
+        "description": "Only one account per person may be used on each platform unless approved by a full Council.",
+        "date": "Passed 0727 CST February 12 2021",
+        "amendments": 0
+    },
+    "65": {
+        "name": "Article 65",
+        "description": "The Speaker of the House may now pass his own laws, unilaterally. These will be called \"orders\" and will follow the same constitutional article numbering system.",
+        "date": "Passed 1934 CST February 12 2021",
+        "amendments": 0
+    },
+    "66": {
+        "name": "*Article 66*",
+        "description": "Kill all the Jedi.",
+        "date": "Passed 1936 CST February 12 2021",
+        "amendments": 0
+    },
+    "67": {
+        "name": "Article 67",
+        "description": "Article 65 is hereby invalid. It was simply done for show, and should not reflect as an impediment to the Republic.",
+        "date": "Passed 1938 CST February 12",
+        "amendments": 0
     }
 }
