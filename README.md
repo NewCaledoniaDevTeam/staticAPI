@@ -3,9 +3,9 @@
 JSONs used New Caledonia
 
 ## National Mainframe Bot
-- [Current National Laws](https://staticapi.newcaledonia.us/staticAPI/laws/)
-  - [First Edition National Laws](https://staticapi.newcaledonia.us/staticAPI/laws/v1/)
-- [Minecraft Items](https://staticapi.newcaledonia.us/staticAPI/items/)
+- [Current National Laws](https://staticapi.newcaledonia.us/laws/)
+  - [First Edition National Laws](https://staticapi.newcaledonia.us/laws/v1/)
+- [Minecraft Items](https://staticapi.newcaledonia.us/items/)
 - [Dad Jokes](https://staticapi.newcaledonia.us/dadjokes/)
 - [Chooser](https://staticapi.newcaledonia.us/chooser/)
 
