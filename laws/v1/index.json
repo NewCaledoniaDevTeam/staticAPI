@@ -634,5 +634,83 @@
         "description": "If there is a motion that the Council feels should be brought to the populus, they may do so, once every four months. They must present the wording of the article as part of a major ballot. Should they choose to edit either after or during, they may do so, given that the new wording does not contradict or add to the original. After the election closes, if the law holds a simple majority of popular vote, it passes, with a tie constituting a failure to pass.",
         "date": "Passed 1144 CST February 27 2021",
         "amendments": 0
+    },
+    "71": {
+        "name": "Article 71",
+        "description": "The Press of New Caledonia has the right to publish whatever depiction of any person, entity, or event, given that said depiction is factual (meaning \"can be proven\") or is denoted as some variation of an opinion piece. As a tradeoff, the news outlets themselves must be non-profit in order to receive this protection. If these conditions are violated, the protection is revoked, and the outlet is subjected to any lawsuits that may follow.",
+        "date": "Passed 0159 CST March 2 2021",
+        "amendments": 0
+    },
+    "72": {
+        "name": "Article 72",
+        "description": "Swear words and other prohibited modes may be featured in the Discord status of members, but only one in each status, given the owner does not deliberately call attention to it. Furthermore, this status loophole may not be used to bully or harass others on this server. If these terms are violated, the perpetrator will be charged with appropriate crimes and will be kicked until they change their status, with any additional punishment inflicted after they return.",
+        "date": "Passed 1624 March 2 2021",
+        "amendments": 0
+    },
+    "73": {
+        "name": "Article 73",
+        "description": "On the establishment of the Ministry of Enforcement and Investigation (MEI). This Ministry will include both the Enforcer Corps and the NIA. The Captain of the Enforcer Corps will be appointed by every new Council upon inauguration, and the Director of the NIA will be elected during every four month election cycle. The Minister will be elected by those in the MEI between these two positions. The responsibilities of the Minister include: holding all parties accountable and delegating tasks. The runner-up in this election is the Deputy Minister, who takes over in such situations as the Minister is unavailable due to the circumstances. This election will take place thirty days after each Council election opens.",
+        "date": "Passed 1744 CST March 4 2021",
+        "amendments": 1
+    },
+    "73.1": {
+        "name": "Article 73 - Amendment 1",
+        "description": "The Minister of Enforcement and Investigation (who must be selected between the Captain of the National Enforcers and the Director of the NIA) must not be a Councilman, so as to maintain separation of powers. However, the Deputy Minister (the remaining of the two above options) may be a Councilman, and is to serve in the stead of the Minister when he cannot or should not be reached.",
+        "date": "Passed 1739 CDT March 29 2021",
+        "amendments": 0
+    },
+    "74": {
+        "name": "Article 74 (Odysseus Act)",
+        "description": "On fraternal/romantic relations within the server. Should someone involved in a relationship of a fraternal or romantic nature with a current citizen apply for citizenship, they are required to declare this relationship, and the Council is required to take it into account when voting. As such, a question fitting this declaration will be added to the questionnaire. It is legal for this person to join despite this; however, should their relationship at any point involve the rest of the server, both citizens involved will be suspended for a minimum of two weeks. Likewise, should a relationship of this nature develop between two existing citizens, they are required to declare it and follow the same guidelines.",
+        "date": "Passed 0917 CST March 9 2021",
+        "amendments": 0
+    },
+    "75": {
+        "name": "Article 75",
+        "description": "No inappropriate skins examples: bikinis and shirtless skins or having inappropriate implication.",
+        "date": "Passed 2039 CDT April 9 2021",
+        "amendments": 0
+    },
+    "76": {
+        "name": "Article 76 (Franklin Act)",
+        "description": "The official time zone of New Caledonia is hereby shared between Central Daylight Time (US) and Central Standard Time (US).",
+        "date": "Passed 2053 CDT April 11 2021",
+        "amendments": 0
+    },
+    "77": {
+        "name": "Article 77",
+        "description": "The time between any punishment announcement and the implementation of that same punishment may be no less than seven days, nor can it exceed that mark. During this time, the convict is to be labeled as such and may not join the Minecraft server except with a chaperone. Should the punishment be a fine, a chaperone is unnecessary, but the fine must be paid during this seven day period.",
+        "date": "Passed 0059 CDT May 1 2021",
+        "amendments": 0
+    },
+    "78": {
+        "name": "Article 78 (Trump Act)",
+        "description": "This act sets into motion the ability for those convicted to appeal their punishments. Primarily, the ruling of the judge is final. However, if and only if the decided punishment is greater than the equivalent of a seven day ban, the convict may elect to appeal the punishment. Should they make this decision, they will notify the judge on the case, who will, within 12 hours of the request, create an open argument session for the convict to present their case. If no judge is available, this will fall to available Councilmen. If there are none, this falls to available Enforcers. After this time, the Council will vote. If a majority uninvolved Council votes to overturn the previous punishment, the motion will go to a popular vote. If a simple majority (greater than 50%) votes to overturn that punishment, the punishment is thus overturned. Should either of these criteria fail to occur, the appeal fails. If the motion is successful, the Council will work to impose a new punishment on the convict (which must be less than the equivalent of a 7 day ban), which will begin immediately after the entire process has concluded. This process must be conducted entirely within the 7 day gap set forth by A77, and may only happen once per offense.",
+        "date": "Passed 2103 CDT May 1 2021",
+        "amendments": 0
+    },
+    "79": {
+        "name": "Article 79",
+        "description": "When getting kicked off the server as required by Council verdict, or when leaving the nation (described as leaving the main Discord server of one's own accord), a citizen must give away their belongings. After doing so, and before they are officially removed, they must submit a log of to whom their belongings went. Failure to follow either of these steps results in all property becoming that of the National Council. The Council may do with it as they see fit, at the discretion of a majority vote.",
+        "date": "Passed 2200 CDT May 6 2021",
+        "amendments": 0
+    },
+    "80": {
+        "name": "Article 80",
+        "description": "During an approval poll or impeachment proceeding, absolutely no campaigning may be done for either side. The side that campaigns may automatically have their case thrown out and lose the poll, at the discretion of the presiding Councilman or Councilmen.",
+        "date": "Passed 0901 CDT May 18 2021",
+        "amendments": 0
+    },
+    "81": {
+        "name": "Article 81 (Cooperation Act)",
+        "description": "Whenever a law is proposed, it cannot be passed until all three Councilmen have at least had the opportunity to review it and voice their opinions. The opportunity will be at least one day of reasonably being awake (0800-2200 local time). This does not change passage requirements, which remains a majority Council for new laws, and full Council for amendments.",
+        "date": "Passed 2023 May 29 2021",
+        "amendments": 0
+    },
+    "82": {
+        "name": "Article 82",
+        "description": "The Discord server owner may henceforth only be a Councilman, selected by his fellow Councilmen. The ownership title must be turned over within a week of the new owner's selection, or the outgoing owner will face punishments up to and including bans of various lengths.",
+        "date": "Passed 2243 CDT June 6 2021",
+        "amendments": 0
     }
 }
