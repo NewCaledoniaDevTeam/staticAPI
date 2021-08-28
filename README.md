@@ -13,4 +13,4 @@ JSONs used New Caledonia
 - [Shrewsbuquerque Laws](https://staticapi.newcaledonia.us/darzosLaws/)
 - [Heretic Jokes](https://staticapi.newcaledonia.us/hereticjoke/)
 - [Darzos Chooser](https://staticapi.newcaledonia.us/darzosChooser/)
-- [Heresy List](https://staticapi.newcaledonia.us/hersey/)
+- [Heresy List](https://staticapi.newcaledonia.us/heresy/)
