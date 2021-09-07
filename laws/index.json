@@ -81,6 +81,12 @@
         "name": "Article 12 (Currency Act)",
         "description": "The Galactic Credit will be the nationally recognized form of currency. New citizens will be given 128 upon approval.",
         "date": "Passed 2115 CDT July 20 2021",
+        "amendments": 1
+    },
+    "12.1": {
+        "name": "Article 12 - Amendment 1",
+        "description": "The starting monetary amount for newly approved citizens, formerly 128 in national credits, is now 64 in the same currency, effective immediately.",
+        "date": "Passed 0950 CDT September 7 2021",
         "amendments": 0
     },
     "13": {
