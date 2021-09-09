@@ -298,5 +298,11 @@
         "description": "Any and all artificial XP farms are prohibited within the limits of the following cities: the City of New Caledonia, the City of Starkville, the City of New Llanfairpwllgwyngyllgogerychwyrndrobwllllantysiliogogogoch, the City of Eternalia (ETE), the City of New Taivas (MKJ), Waffle City (Shrewsbuquerque), Wayward Pines (Shrewsbuquerque), and Hahira (Shrewsbuquerque). Cities may be added to this list via amendments. Furthermore, city limits are defined as within sight of the nearest building within that city. Provinces may opt out if they so choose, and this motion must be approved by a majority of the Council or Senate.",
         "date": "Passed 0917 CDT August 17 2021",
         "amendments": 0
+    },
+    "47": {
+        "name": "Article 47",
+        "description": "Private entities are hereby prohibited from restricting access to the Nether and End either outright or through taxation. The only exception is through use of an artificial portal built by the aforementioned private entity with majority Council approval. In this instance, only use of the portal itself may be restricted in any way. If land is owned in either of the two aforementioned levels of hell, it is not subject to trespassing laws.",
+        "date": "Passed 0131 CDT September 8 2021",
+        "amendments": 0
     }
 }
