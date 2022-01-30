@@ -1,6 +1,6 @@
 # New Caledonia Static APIs
 
-JSONs used New Caledonia
+JSONs used New Caledonia. For Minify verison use [staticapi.newcaledonia.us/path/index.min.json](https://staticapi.newcaledonia.us/laws/index.min.json).
 
 ## National Mainframe Bot
 - [Current National Laws](https://staticapi.newcaledonia.us/laws/)
