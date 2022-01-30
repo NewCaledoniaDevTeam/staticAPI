@@ -10,9 +10,9 @@ jobs:
         with:
           access_token: ${{ github.token }}
       - uses: actions/checkout@v2 🛎️
-
+      
       - name: Compress Json Script 🔧
-         run: |
+        run: |
           chmod +x compress-json.sh
           ./compress-json.sh
           
