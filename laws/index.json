@@ -9,12 +9,18 @@
         "name": "Article 1 (Powers Act)",
         "description": "The Council and Senate make up the executive and legislative bodies respectively.\nCouncil Powers:\nThe election is held every 4 months between the senate elections\n-The power to vote in laws: Majority needed for laws, all needed for amendments. All councilmen must be given at least a day to see the proposed law and voice their opinion\n-Councilmen may elect deputy councilmen to take over their position in cases which they cannot\n-Councilmen can see discussions made by senators, but are not allowed to participate or attempt to influence members thoughts\n-Majority councilmen can prevent a senator's ability to run in the next election with reason. They cannot use digressions in a different term, nor can they reuse digressions within a term\nSenate Powers:\n-The election is held every 4 months between the council elections\n-The senate will have someone representing each borough and province, those representatives cannot be councilmen, but are permitted to be deputy councilmen\n-Senators may elect their own deputies in cases where they either can’t do their job, or are needed as deputy councilmen to take over for the councilmen\n-Majority senate can prevent a councilman's ability to run in the next election with reason. They cannot use digressions in a different term, nor can they reuse digressions within a term\nShared Powers:\n-Both groups will be the first potential judges in cases\n-A majority senate vote can veto laws while a full council vote can cancel vetoes\n-At least one CST and JST vote is needed to veto laws. In cases where the senate does not consist of both groups, an citizen of the party with no representation can be used, with exceptions to provincial rulers and councilmen\n-Banned citizens cannot hold either position\n-⅓ of the senators can start an approval vote on a councilman at least 4 weeks after the councilmen take office. Citizens of the resulting boroughs can start an approval poll on a senator representing a borough 4 weeks after the senators take office. Provinces may choose how to do their approval votes if they choose to have them. No campaigning is allowed during an approval vote\n-If either group wishes to run for the opposing seat, they may, but at the cost of their previous seat.",
         "date": "Passed 0127 CDT September 14 2021",
-        "amendments": 1
+        "amendments": 2
     },
     "1.1": {
-        "name": "Article 1 Amendment 1"
-        "description": "The following measures will take effect for the election cycle surrounding the inauguration day of January 1, 2022. Terms for Senators are now two months, with inaugurations in January, March, May, July, September, and November. Secondly, the Senate will only hold representatives from official Council-recognized provinces, the criteria for which is listed earlier in this document. Should a new province become recognized during an ongoing Senatorial term, that province will not have a Senator until that term is ended. No changes to the manner in which provinces select their representative will be implemented at this time."
+        "name": "Article 1 Amendment 1",
+        "description": "The following measures will take effect for the election cycle surrounding the inauguration day of January 1, 2022. Terms for Senators are now two months, with inaugurations in January, March, May, July, September, and November. Secondly, the Senate will only hold representatives from official Council-recognized provinces, the criteria for which is listed earlier in this document. Should a new province become recognized during an ongoing Senatorial term, that province will not have a Senator until that term is ended. No changes to the manner in which provinces select their representative will be implemented at this time.",
         "date": "Passed 2115 CDT July 20 2021",
+        "amendments": 0
+    },
+    "1.2": {
+        "name": "Article 1 Amendment 2",
+        "description": "Senate may bar any Citizen from running in the next Council election by way of a majority vote. The Council may bar any Citizen from running in the next Senate election by way of the same majority vote.",
+        "date": "Unknown",
         "amendments": 0
     },
     "2": {
@@ -333,6 +339,18 @@
         "name": "Article 50 (Second Reform Acts)",
         "description": "I. Regarding trials and other matters handled in national court. Primary tribunal duties will be transferred to a jury of three individuals, selected by the Ministry of Enforcement and Investigation and approved by a majority of the sitting, innocent Council at the time the accused was apprehended or the case was first filed. II. Regarding provincial defense and militias. Militias are, by default, under provincial command. They can, however, be federalized, a motion which requires a greater than 60% vote from the National Senatorial Legislative Body (NSLB). Councilmen may set the motion, but may not partake in the vote. Should the province fail to conform, its leader(s) will be arrested and stand trial for treason, as seen as necessary by the NSLB.",
         "date": "Passed 2207 CST December 26 2021",
+        "amendments": 0
+    },
+    "51": {
+        "name": "Article 51",
+        "description": "The use of Creative privileges and other means to duplicate resources is hereby prohibited, unless the user is given majority Council approval. Sale and distribution of these approved duplicated resources is also illegal without prior approval by the same parameters.",
+        "date": "Passed 2325 CST December 31 2021",
+        "amendments": 0
+    },
+    "52": {
+        "name": "Article 52",
+        "description": "This act sets forth the ability for a Legislative Order, or a Senate law. In relation to issues not covered by law, a minimum seventy-five percent Senate vote passes the law. Normal veto guidelines apply to the Council in this scenario, unless the Council can prove before a jointly appointed third party that the order in question is in fact covered in a previous law. In such a case, a minimum seventy-five percent Senate vote plus a Council vote greater than fifty percent would pass the same order. Should the Senate decide to attempt an order either contradictory or additional to a pre-existing law, they may declare that to begin with. Veto laws still apply for the Council. Legislative Orders last for the remainder of the Senate term, and must be reaffirmed after the term ends, should should Senate choose to do so.",
+        "date": "Passed 0001 CST January 23 2022",
         "amendments": 0
     }
 }
