@@ -352,5 +352,17 @@
         "description": "This act sets forth the ability for a Legislative Order, or a Senate law. In relation to issues not covered by law, a minimum seventy-five percent Senate vote passes the law. Normal veto guidelines apply to the Council in this scenario, unless the Council can prove before a jointly appointed third party that the order in question is in fact covered in a previous law. In such a case, a minimum seventy-five percent Senate vote plus a Council vote greater than fifty percent would pass the same order. Should the Senate decide to attempt an order either contradictory or additional to a pre-existing law, they may declare that to begin with. Veto laws still apply for the Council. Legislative Orders last for the remainder of the Senate term, and must be reaffirmed after the term ends, should should Senate choose to do so.",
         "date": "Passed 0001 CST January 23 2022",
         "amendments": 0
+    },
+    "53": {
+        "name": "Article 53",
+        "description": "This article hereby establishes both the Ministry of the Interior (MOTI) and the National Park Commission (NPC). The Ministry will include the existing New Caledonian Construction Authority (NCCA), the New Caledonian Transportation Agency (NCTA), and the new National Park Commission (NPC). The Minister will also handle oversight of the Bank of New Caledonia (BONC) which will hereby remain private. As for the National Park Commission, it will be controlled bilaterally by the Minister of the Interior and the Senate. The NPC can establish National Parks, and National Historic Sites. Violation of any NPC regulations in these sites will result in a ban decided on by the Council. Officially, the NPC will be a part of the MOTI.",
+        "date": "Passed February 3 2022",
+        "amendments": 1
+    },
+    "53.1": {
+        "name": "Article 53  Amendment 1",
+        "description": "The Minister of the Interior, that is, the head of the Ministry of the Interior, will be selected by a nomination by a Councilman approved by a majority Council and confirmed by a two-thirds Senate. This is a for-life position that, with reasonable cause that is challengeable in court of law, can be unseated with a majority Council and two-thirds Senate.",
+        "date": "Passed February 3 2022",
+        "amendments": 0
     }
 }
