@@ -8,6 +8,12 @@
     "1": {
         "name": "Article 1 (Powers Act)",
         "description": "The Council and Senate make up the executive and legislative bodies respectively.\nCouncil Powers:\nThe election is held every 4 months between the senate elections\n-The power to vote in laws: Majority needed for laws, all needed for amendments. All councilmen must be given at least a day to see the proposed law and voice their opinion\n-Councilmen may elect deputy councilmen to take over their position in cases which they cannot\n-Councilmen can see discussions made by senators, but are not allowed to participate or attempt to influence members thoughts\n-Majority councilmen can prevent a senator's ability to run in the next election with reason. They cannot use digressions in a different term, nor can they reuse digressions within a term\nSenate Powers:\n-The election is held every 4 months between the council elections\n-The senate will have someone representing each borough and province, those representatives cannot be councilmen, but are permitted to be deputy councilmen\n-Senators may elect their own deputies in cases where they either can’t do their job, or are needed as deputy councilmen to take over for the councilmen\n-Majority senate can prevent a councilman's ability to run in the next election with reason. They cannot use digressions in a different term, nor can they reuse digressions within a term\nShared Powers:\n-Both groups will be the first potential judges in cases\n-A majority senate vote can veto laws while a full council vote can cancel vetoes\n-At least one CST and JST vote is needed to veto laws. In cases where the senate does not consist of both groups, an citizen of the party with no representation can be used, with exceptions to provincial rulers and councilmen\n-Banned citizens cannot hold either position\n-⅓ of the senators can start an approval vote on a councilman at least 4 weeks after the councilmen take office. Citizens of the resulting boroughs can start an approval poll on a senator representing a borough 4 weeks after the senators take office. Provinces may choose how to do their approval votes if they choose to have them. No campaigning is allowed during an approval vote\n-If either group wishes to run for the opposing seat, they may, but at the cost of their previous seat.",
+        "date": "Passed 0127 CDT September 14 2021",
+        "amendments": 1
+    },
+    "1.1": {
+        "name": "Article 1 Amendment 1"
+        "description": "The following measures will take effect for the election cycle surrounding the inauguration day of January 1, 2022. Terms for Senators are now two months, with inaugurations in January, March, May, July, September, and November. Secondly, the Senate will only hold representatives from official Council-recognized provinces, the criteria for which is listed earlier in this document. Should a new province become recognized during an ongoing Senatorial term, that province will not have a Senator until that term is ended. No changes to the manner in which provinces select their representative will be implemented at this time."
         "date": "Passed 2115 CDT July 20 2021",
         "amendments": 0
     },
@@ -135,6 +141,12 @@
         "name": "Article 20 (Reparation Act)",
         "description": "If a crime is acquitted or the court is canceled, the National Council has the responsibility to pay a reparation of 32 credits. This does not include cases that have finished, whether found innocent or guilty.",
         "date": "Passed 2115 CDT July 20 2021",
+        "amendments": 1
+    },
+    "20.1": {
+        "name": "Article 20 Amendment 1",
+        "description": "The previous wording of this law is now void. Reparations now only apply to wrongful arrests realized prior to court, and will only be worth 10 Credits, plus any damaged or lost property with proof provided.",
+        "date": "Passed 1202 CST December 29 2021",
         "amendments": 0
     },
     "21": {
@@ -303,6 +315,24 @@
         "name": "Article 47",
         "description": "Private entities are hereby prohibited from restricting access to the Nether and End either outright or through taxation. The only exception is through use of an artificial portal built by the aforementioned private entity with majority Council approval. In this instance, only use of the portal itself may be restricted in any way. If land is owned in either of the two aforementioned levels of hell, it is not subject to trespassing laws.",
         "date": "Passed 0131 CDT September 8 2021",
+        "amendments": 0
+    },
+    "48": {
+        "name": "Article 48",
+        "description": "Overall national and government server settings may not be edited in any way without prior approval from a majority of the Council and the current Discord Server Owner (DSO). Chats may be edited by the owner of the chat without prior approval, as stated earlier in this document.",
+        "date": "Passed 0333 CDT November 11 2021",
+        "amendments": 0
+    },
+    "49": {
+        "name": "Article 49",
+        "description": "The Council is hereby bored. As such, it is, from this point forward, the month of December. This law will remain in effect until such a time at which such a claim is preposterous (i.e. in January). Any who disagree face an immediate ban.",
+        "date": "Passed 0114 CST December 3 2021",
+        "amendments": 0
+    },
+    "50": {
+        "name": "Article 50 (Second Reform Acts)",
+        "description": "I. Regarding trials and other matters handled in national court. Primary tribunal duties will be transferred to a jury of three individuals, selected by the Ministry of Enforcement and Investigation and approved by a majority of the sitting, innocent Council at the time the accused was apprehended or the case was first filed. II. Regarding provincial defense and militias. Militias are, by default, under provincial command. They can, however, be federalized, a motion which requires a greater than 60% vote from the National Senatorial Legislative Body (NSLB). Councilmen may set the motion, but may not partake in the vote. Should the province fail to conform, its leader(s) will be arrested and stand trial for treason, as seen as necessary by the NSLB.",
+        "date": "Passed 2207 CST December 26 2021",
         "amendments": 0
     }
 }
