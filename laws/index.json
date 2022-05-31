@@ -23,6 +23,30 @@
         "date": "Passed 2004 CST January 25 2021",
         "amendments": 0
     },
+    "1.3": {
+        "name": "Article 1 Amendment 3",
+        "description": "For the purposes of this law, the Council and Senate joint inauguration day will be assumed to be one of three per year: March 1 (Vernal Election Cycle or VEC), July 1 (Summer Election Cycle or SEC), or November 1 (Autumnal Election Cycle or AEC). The Council must, effective for the SEC in 2022, be elected one week prior to the inauguration day for its respective cycle. Should tiebreakers be required, the inauguration day will be made later to account for the time difference. Senate selections will still be required one day prior to inauguration day. Council elections, starting with the AEC in 2022, must be run by the outgoing Chancellor, with the Capitol Correspondent having access to release information and status reports.",
+        "date": "Passed 1750 CDT May 24 2022",
+        "amendments": 0
+    },
+    "1.4": {
+        "name": "Article 1 Amendment 4",
+        "description": "The Senate now has what is characterized as the \"power of the purse\". The Senate now has the ability to impose taxes, and pay for government entities, with a minimum 75% vote to ratify each policy edit. They may also handle any payouts for contract jobs or other necessities with a majority vote to ratify. Each ministry must submit a request for funds within two weeks of the Council election cycle. Based on these requests, a budget may be formulated if necessary, which requires a minimum two thirds vote to ratify, along with a majority Council.",
+        "date": "Passed 0012 CDT May 28 2022",
+        "amendments": 0
+    },
+    "1.5": {
+        "name": "Article 1 Amendment 5 - Quit Whining Act",
+        "description": "Should the Council and Senate disagree on an issue not disclosed in this document, it goes to a court of law in the form of a lawsuit.",
+        "date": "Passed 0129 CDT May 28 2022",
+        "amendments": 0
+    },
+    "1.6": {
+        "name": "Article 1 Amendment 6 - Ratification Act",
+        "description": "This amendment institutes a ratification period for all laws passed through the Council. Any Senator may propose a veto vote, but must do so during a seven day ratification period. If no action is taken and the ratification period elapses, the bill becomes law, and existing repeal guidelines (previously for veto) become precedent, rather than this writing. Should a Senator choose to call a veto vote, the bill then enters a seven day debate period, during which the original Senator and opposition are to argue their points. The Chancellor must then open voting before the debate period is elapsed, or the Senate will face repercussions to be decided by the Council. The veto must be passed by a minimum 60% (not rounded) Senate vote. If this number fails to be reached, the bill becomes law. If this number is reached, the Council may edit and reattempt the bill through the aforementioned process, or they may challenge the veto. If the Council passes a full vote to overturn, along a with a minimum one-third Senate vote, the bill becomes law. Repealing now requires a minimum 75% vote in the Senate. Other existing guidelines still apply.",
+        "date": "Passed 2019 CDT May 29 2022",
+        "amendments": 0
+    },
     "2": {
         "name": "Article 2 (District Act)",
         "description": "Certain federal buildings will be taken from borough jurisdiction and moved to the District of Danketsu, an organized district that is under the jurisdiction of the Council at large. This District will be represented by the Council, and any and all buildings added to it must be voted on, and approved by a full Council vote. Additional area for the District's jurisdiction includes 3 blocks in any direction. Moreover, the list of buildings included in the District of Danketsu must be kept and regularly maintained in the Voting Alignment and Legal Information Document (VALID).",
@@ -81,6 +105,12 @@
         "name": "Article 10 (Server Operator Act)",
         "description": "The Server Operator of both the Minecraft server and Discord server must follow a Code of Conduct. The Discord Server Operator must be a councilman.",
         "date": "Passed 2115 CDT July 20 2021",
+        "amendments": 1
+    },
+    "10.1": {
+        "name": "Article 10 Amendment 1",
+        "description": "The Senate must have available to them a backup file of the New Caledonia Minecraft server, less than one month old, unless reason is permitted by the Senate. Should the Senate find the MCSO in violation of any written rules in the Code of Conduct, they are to give one warning and after this, a minimum two thirds vote and majority Council confirmation may start the removal process of the sitting MCSO, which the affected may contest via a lawsuit. If there are unwritten expectations, they must be written and agreed upon by both the Senate and MCSO prior to any action being taken.",
+        "date": "Passed 2223 CDT May 28 2022",
         "amendments": 0
     },
     "11": {
@@ -96,7 +126,7 @@
         "amendments": 1
     },
     "12.1": {
-        "name": "Article 12 - Amendment 1",
+        "name": "Article 12 Amendment 1",
         "description": "The starting monetary amount for newly approved citizens, formerly 128 in national credits, is now 64 in the same currency, effective immediately.",
         "date": "Passed 0950 CDT September 7 2021",
         "amendments": 0
@@ -360,9 +390,57 @@
         "amendments": 1
     },
     "53.1": {
-        "name": "Article 53  Amendment 1",
+        "name": "Article 53 Amendment 1",
         "description": "The Minister of the Interior, that is, the head of the Ministry of the Interior, will be selected by a nomination by a Councilman approved by a majority Council and confirmed by a two-thirds Senate. This is a for-life position that, with reasonable cause that is challengeable in court of law, can be unseated with a majority Council and two-thirds Senate.",
         "date": "Passed 2011 CST February 2 2022",
+        "amendments": 0
+    },
+    "54": {
+        "name": "Article 54",
+        "description": "Interprovincial laws, alliances, and conflicts are hereby permitted. In the case of laws and alliances, each province must pass the bill in question as law before the issue is then brought to the national government for review. As part of the review process, a majority of the Council, along with the Senators for the involved Provinces, must vote to approve this. In the case of a conflict, the Council may serve as a tribunal to settle disputes. Provinces may declare war on each other, but restrictions exist. Should damage to property outside the Provinces that can be proven in a court of law to occur as a direct result of the conflict, both Provinces may be placed under martial law and may lose their provincehood. Should damage to private property within the Province occur, the owner(s) may sue the province or individuals in national court. More restrictions on conflicts may be written by involved provinces.",
+        "date": "Passed 1129 CST March 8 2022",
+        "amendments": 0
+    },
+    "55": {
+        "name": "Article 55",
+        "description": "Enforcers are to be paid a salary of 8 Credits every 4 months, to be paid near every midterm election (triannually). If credited (at Captain's discretion) with a collar that results in a conviction and ban time when not affected by probation, the Enforcer will receive a bonus of 5 Credits. The court will decide whether or not the Enforcer is eligible for this bonus. This policy is exclusively for the National Enforcer Corps. Provinces are responsible for compensation of their employed police.",
+        "date": "Passed 1132 CST March 8 2022",
+        "amendments": 0
+    },
+    "56": {
+        "name": "Article 56",
+        "description": "This act was passed in regards to monetary amounts owed to the government in the form of a fine, or to a third party in the event of a lawsuit. Extensions on the original due date may be granted, with an added fee of 5 Credits per week for a maximum of 3 weeks total. If the convicted is unable to pay the amount due to either the government or the third party as a result of a lack of funds, and is able to prove that this is the case, the convicted would go into indentured servitude to the Council, during which he is contractually bound, and may be dispatched to private projects. Failure to carry out acts may result in a ban for breach of contract. If the official deadline is missed after extensions are taken into account, a ban will be issued for the original amount of Credits in days (i.e. a 10 Credit fine without extensions would turn into a 10 day ban). Votes on extensions, servitude dispatching, extent of tasks, and other minor issues would require a majority Council. Editing of a verdict would require a full Council.",
+        "date": "Passed 0736 March 9 2022",
+        "amendments": 0
+    },
+    "57": {
+        "name": "Article 57",
+        "description": "For the benefit of the people there will be a Capitol Correspondent, which is a journalist who may be on the Senate, but cannot be on the Council, so as to provide a lack of bias. Applicants may submit applications up to 1 week after Council elections close, at which point the Correspondent will be chosen by the Council. This Correspondent may be in any Council related chats without speaking or editing rights. Should the Correspondent violate any rules or confidentiality agreements set in text, they may be kicked, so long as probable cause can be proven in a court of law.",
+        "date": "Passed 1843 CDT March 11 2022",
+        "amendments": 0
+    },
+    "58": {
+        "name": "Article 58 - The 5-4 Act",
+        "description": "May 4 is now the equivalent of a purge in New Caledonia. Any Minecraft crimes are legal when the MCSO gives the word around midnight Central Daylight. It will last until the stroke of midnight Central Daylight. Anything done on Minecraft during this 24-hour span will be immediately Regressed. Any crimes committed on Discord (i.e. harassment) will still be prosecuted normally. Any business deals and court dealings on Discord will remain done. Contracts signed will remain legally valid. Any governmental changes made and laws passed during this 24-hour span will, however, be Regressed.",
+        "date": "Passed 2300 CDT March 14 2022",
+        "amendments": 0
+    },
+    "59": {
+        "name": "Article 59",
+        "description": "Should a provincial leader or other high-ranking province official be found in violation of national law, the following steps will be taken. On the first offense as determined by a majority innocent Council vote, the accused will receive a warning. On the second offense as determined by a full innocent Council vote, the accused will receive a fine, the amount of which is determined by the same full innocent Council. On the third offense as determined by a full innocent Council vote, a minimum of seventy-five percent of the innocent Senate may vote to remove the accused from power. If this vote fails, another fine will be imposed, continuing on until the leader in question is removed from office. This procedure is to be done in addition to any normal legal action, and may only be done should the accused repeat the same crime multiple times. Should a full innocent Council agree that the infraction is menial, or that the law in question is contradicted by preexisting provincial law, this procedure may be overlooked.",
+        "date": "Passed 1914 CDT March 23 2022",
+        "amendments": 0
+    },
+    "60": {
+        "name": "Article 60",
+        "description": "Should anyone mess with settings on the Minecraft server without the express written permission of the MCSO, they will face a ban and will pay any reparations a regression might cause.",
+        "date": "Passed 1800 CDT March 29 2022",
+        "amendments": 0
+    },
+    "61": {
+        "name": "Article 61 - Zen Act",
+        "description": "Should a full citizen become disgruntled or offended by a happening on the national Discord server and are a citizen of a province, they have the following option: they may take a one-month hiatus from the national server and select one province to remain in for the duration of the month. During this month, they lose their right to vote for, run for, and hold any sort of national-level public office, but they may remain active in exactly one province. Should this time conflict with a pre-existing national position, the citizen in question is to appoint a replacement to serve during the hiatus, but is entitled to finish the term for which they were elected, upon their return. When no less than seven days remain in the maximum hiatus, the citizen in question must decide whether they will be leaving New Caledonia entirely or a full return. If no decision is reached, the former option will be recognized by default, and the citizen is to be kicked from all New Caledonia servers immediately, and may be reinvited in two weeks. If the decision is the latter, it may be invoked at any time during the hiatus. The Zen Act may be invoked just once per citizen per calendar year, and must be spaced by at least one full month.",
+        "date": "Passed 1835 CDT April 7 2022",
         "amendments": 0
     }
 }
